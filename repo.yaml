@@ -1,0 +1,21 @@
+$meta:
+  version: 1.0
+name: chart-world
+description: "A playground of Chart.js visualizations hosted in PHP/Symfony."
+codeowners:
+  - pattern: '*'
+    owners:
+      - '@mstrand'
+github:
+  topics:
+    - chart.js
+    - symfony
+    - php
+  features:
+    wiki: false
+    issues: false
+    dependabot_auto_merge: true
+type: php-web
+visibility: public
+license: mit
+lifecycle: dev-research
