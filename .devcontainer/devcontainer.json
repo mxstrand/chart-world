@@ -26,14 +26,19 @@
                 "https://raw.githubusercontent.com/linkorb/repo-ansible/main/repo.schema.yaml": ["repo.yaml"]
               },
               // YAML extension by RedHat that prompts on each new devcontainer to enable telemetry
-              "redhat.telemetry.enabled": false
+              "redhat.telemetry.enabled": false,
+              "editor.formatOnSave": true,
+              "prettier.documentSelectors": ["**/*.twig"],
+              "prettier.requireConfig": true
           },
           // Add the IDs of extensions you want installed when the container is created.
           "extensions": [
               "xdebug.php-debug",
               "bmewburn.vscode-intelephense-client",
               "mrmlnc.vscode-apache",
-              "74th.json-yaml-schema-selector"
+              "74th.json-yaml-schema-selector",
+              "whatwedo.twig",
+              "esbenp.prettier-vscode" 
           ]
       }
   },
