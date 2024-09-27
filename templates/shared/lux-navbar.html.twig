@@ -8,11 +8,10 @@
       />
     </a>
     <ul class="c-nav c-nav--end">
-      <li class="c-nav__item"><a href="#" class="c-nav__link">Menu</a></li>
-      <li class="c-nav__item"><a href="#" class="c-nav__link">Menu</a></li>
-      <li class="c-nav__item"><a href="#" class="c-nav__link">Menu</a></li>
-      <li class="c-nav__item"><a href="#" class="c-nav__link">Menu</a></li>
-      <li class="c-nav__item"><a href="#" class="c-nav__link">Menu</a></li>
+    <ul class="c-nav c-nav--end">
+      {% for navItem in navItems %}
+        <li class="c-nav__item"><a href="#" class="c-nav__link">{{ navItem }}</a></li>
+      {% endfor %}
       <li class="c-nav__item c-nav__item--dropdown">
         <a href="javascript:void(0)" class="c-nav__link c-nav__dropdown-toggle">
           Menu

@@ -18,7 +18,7 @@
         {% endblock %}
     </head>
     {% block menu %}
-        {% include 'shared/lux-navbar.html.twig' %}
+        {% include 'shared/lux-navbar.html.twig' with {'navItems': navItems} %}
     {% endblock menu%}
     <body>
         <div class="container-fluid">
