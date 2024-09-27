@@ -16,6 +16,19 @@ class BaseController extends AbstractController
 
     protected function getNavItems(): array
     {
-        return $this->yamlService->readYamlFile('nav-list.yaml');
+        $data = $this->yamlService->readYamlFile('nav-list.yaml');
+        $navItems = [];
+
+        if (isset($data['navItems']) && is_array($data['navItems'])) {
+            foreach ($data['navItems'] as $item) {
+                $navItems[] = [
+                    'name' => $item['name'],
+                    'route' => $item['route'] ?? '/',
+                    'controller' => $item['controller'] ?? 'App\Controller\NavController',
+                ];
+            }
+        }
+
+        return $navItems;
     }
 }

@@ -15,7 +15,7 @@ class HomeController extends BaseController
 
         return $this->render('home/index.html.twig', [
             'message' => 'Welcome to your homepage!',
-            'navItems' => $navItems
+            'navItems' => $navItems,
         ]);
     }
 }

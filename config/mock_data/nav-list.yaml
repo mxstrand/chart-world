@@ -1,6 +1,14 @@
-- nav-1
-- nav-2
-- nav-3
-- nav-4
-- nav-5
-- nav-6
+# config/nav-list.yaml
+# App\Controller\NavController is the default controller unless otherwise specified
+# Custom controllers inherit from App\Controller\NavController
+navItems:
+  - name: Home
+  - name: Navigation 2
+    route: nav-2
+  - name: Nav three
+    route: nav-3
+  - name: Foo
+    route: foo
+    controller: App\Controller\FooController::foo
+  - name: Bar
+    route: bar
