@@ -1,6 +1,6 @@
 # config/nav-list.yaml
-# App\Controller\NavController is the default controller unless otherwise specified
-# Custom controllers inherit from App\Controller\NavController
+# App\Controller\ShowController is the default controller unless otherwise specified
+# Custom controllers inherit from App\Controller\ShowController
 navItems:
   - name: Home
   - name: Navigation 2
