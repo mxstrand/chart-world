@@ -1,0 +1,3747 @@
+- icon-class-name: icon-lux-address-book-fill
+  icon-name: Address  Book
+  icon-code: \eddc
+  is-primary: true
+- icon-class-name: icon-lux-airplane-fill
+  icon-name: Airplane
+  icon-code: \eddd
+  is-primary: false
+- icon-class-name: icon-lux-airplane-in-flight-fill
+  icon-name: Airplane  In  Flight
+  icon-code: \edde
+- icon-class-name: icon-lux-airplane-landing-fill
+  icon-name: Airplane  Landing
+  icon-code: \eddf
+- icon-class-name: icon-lux-airplane-takeoff-fill
+  icon-name: Airplane  Takeoff
+  icon-code: \ede0
+- icon-class-name: icon-lux-airplane-tilt-fill
+  icon-name: Airplane  Tilt
+  icon-code: \ede1
+- icon-class-name: icon-lux-airplay-fill
+  icon-name: Airplay
+  icon-code: \ede2
+- icon-class-name: icon-lux-air-traffic-control-fill
+  icon-name: Air  Traffic  Control
+  icon-code: \ede3
+- icon-class-name: icon-lux-alarm-fill
+  icon-name: Alarm
+  icon-code: \ede4
+- icon-class-name: icon-lux-alien-fill
+  icon-name: Alien
+  icon-code: \ede5
+- icon-class-name: icon-lux-align-bottom-fill
+  icon-name: Align  Bottom
+  icon-code: \ede6
+- icon-class-name: icon-lux-align-bottom-simple-fill
+  icon-name: Align  Bottom  Simple
+  icon-code: \ede7
+- icon-class-name: icon-lux-align-center-horizontal-fill
+  icon-name: Align  Center  Horizontal
+  icon-code: \ede8
+- icon-class-name: icon-lux-align-center-horizontal-simple-fill
+  icon-name: Align  Center  Horizontal  Simple
+  icon-code: \ede9
+- icon-class-name: icon-lux-align-center-vertical-fill
+  icon-name: Align  Center  Vertical
+  icon-code: \edea
+- icon-class-name: icon-lux-align-center-vertical-simple-fill
+  icon-name: Align  Center  Vertical  Simple
+  icon-code: \edeb
+- icon-class-name: icon-lux-align-left-fill
+  icon-name: Align  Left
+  icon-code: \edec
+- icon-class-name: icon-lux-align-left-simple-fill
+  icon-name: Align  Left  Simple
+  icon-code: \eded
+- icon-class-name: icon-lux-align-right-fill
+  icon-name: Align  Right
+  icon-code: \edee
+- icon-class-name: icon-lux-align-right-simple-fill
+  icon-name: Align  Right  Simple
+  icon-code: \edef
+- icon-class-name: icon-lux-align-top-fill
+  icon-name: Align  Top
+  icon-code: \edf0
+- icon-class-name: icon-lux-align-top-simple-fill
+  icon-name: Align  Top  Simple
+  icon-code: \edf1
+- icon-class-name: icon-lux-amazon-logo-fill
+  icon-name: Amazon  Logo
+  icon-code: \edf2
+- icon-class-name: icon-lux-anchor-fill
+  icon-name: Anchor
+  icon-code: \edf3
+- icon-class-name: icon-lux-anchor-simple-fill
+  icon-name: Anchor  Simple
+  icon-code: \edf4
+- icon-class-name: icon-lux-android-logo-fill
+  icon-name: Android  Logo
+  icon-code: \edf5
+- icon-class-name: icon-lux-angular-logo-fill
+  icon-name: Angular  Logo
+  icon-code: \edf6
+- icon-class-name: icon-lux-aperture-fill
+  icon-name: Aperture
+  icon-code: \edf7
+- icon-class-name: icon-lux-apple-logo-fill
+  icon-name: Apple  Logo
+  icon-code: \edf8
+- icon-class-name: icon-lux-apple-podcasts-logo-fill
+  icon-name: Apple  Podcasts  Logo
+  icon-code: \edf9
+- icon-class-name: icon-lux-app-store-logo-fill
+  icon-name: App  Store  Logo
+  icon-code: \edfa
+- icon-class-name: icon-lux-app-window-fill
+  icon-name: App  Window
+  icon-code: \edfb
+- icon-class-name: icon-lux-archive-fill
+  icon-name: Archive
+  icon-code: \edfc
+- icon-class-name: icon-lux-archive-box-fill
+  icon-name: Archive  Box
+  icon-code: \edfd
+- icon-class-name: icon-lux-archive-tray-fill
+  icon-name: Archive  Tray
+  icon-code: \edfe
+- icon-class-name: icon-lux-armchair-fill
+  icon-name: Armchair
+  icon-code: \edff
+- icon-class-name: icon-lux-arrow-arc-left-fill
+  icon-name: Arrow  Arc  Left
+  icon-code: \ee00
+- icon-class-name: icon-lux-arrow-arc-right-fill
+  icon-name: Arrow  Arc  Right
+  icon-code: \ee01
+- icon-class-name: icon-lux-arrow-bend-double-up-left-fill
+  icon-name: Arrow  Bend  Double  Up  Left
+  icon-code: \ee02
+- icon-class-name: icon-lux-arrow-bend-double-up-right-fill
+  icon-name: Arrow  Bend  Double  Up  Right
+  icon-code: \ee03
+- icon-class-name: icon-lux-arrow-bend-down-left-fill
+  icon-name: Arrow  Bend  Down  Left
+  icon-code: \ee04
+- icon-class-name: icon-lux-arrow-bend-down-right-fill
+  icon-name: Arrow  Bend  Down  Right
+  icon-code: \ee05
+- icon-class-name: icon-lux-arrow-bend-left-down-fill
+  icon-name: Arrow  Bend  Left  Down
+  icon-code: \ee06
+- icon-class-name: icon-lux-arrow-bend-left-up-fill
+  icon-name: Arrow  Bend  Left  Up
+  icon-code: \ee07
+- icon-class-name: icon-lux-arrow-bend-right-down-fill
+  icon-name: Arrow  Bend  Right  Down
+  icon-code: \ee08
+- icon-class-name: icon-lux-arrow-bend-right-up-fill
+  icon-name: Arrow  Bend  Right  Up
+  icon-code: \ee09
+- icon-class-name: icon-lux-arrow-bend-up-left-fill
+  icon-name: Arrow  Bend  Up  Left
+  icon-code: \ee0a
+- icon-class-name: icon-lux-arrow-bend-up-right-fill
+  icon-name: Arrow  Bend  Up  Right
+  icon-code: \ee0b
+- icon-class-name: icon-lux-arrow-circle-down-fill
+  icon-name: Arrow  Circle  Down
+  icon-code: \ee0c
+- icon-class-name: icon-lux-arrow-circle-down-left-fill
+  icon-name: Arrow  Circle  Down  Left
+  icon-code: \ee0d
+- icon-class-name: icon-lux-arrow-circle-down-right-fill
+  icon-name: Arrow  Circle  Down  Right
+  icon-code: \ee0e
+- icon-class-name: icon-lux-arrow-circle-left-fill
+  icon-name: Arrow  Circle  Left
+  icon-code: \ee0f
+- icon-class-name: icon-lux-arrow-circle-right-fill
+  icon-name: Arrow  Circle  Right
+  icon-code: \ee10
+- icon-class-name: icon-lux-arrow-circle-up-fill
+  icon-name: Arrow  Circle  Up
+  icon-code: \ee11
+- icon-class-name: icon-lux-arrow-circle-up-left-fill
+  icon-name: Arrow  Circle  Up  Left
+  icon-code: \ee12
+- icon-class-name: icon-lux-arrow-circle-up-right-fill
+  icon-name: Arrow  Circle  Up  Right
+  icon-code: \ee13
+- icon-class-name: icon-lux-arrow-clockwise-fill
+  icon-name: Arrow  Clockwise
+  icon-code: \ee14
+- icon-class-name: icon-lux-arrow-counter-clockwise-fill
+  icon-name: Arrow  Counter  Clockwise
+  icon-code: \ee15
+- icon-class-name: icon-lux-arrow-down-fill
+  icon-name: Arrow  Down
+  icon-code: \ee16
+- icon-class-name: icon-lux-arrow-down-left-fill
+  icon-name: Arrow  Down  Left
+  icon-code: \ee17
+- icon-class-name: icon-lux-arrow-down-right-fill
+  icon-name: Arrow  Down  Right
+  icon-code: \ee18
+- icon-class-name: icon-lux-arrow-elbow-down-left-fill
+  icon-name: Arrow  Elbow  Down  Left
+  icon-code: \ee19
+- icon-class-name: icon-lux-arrow-elbow-down-right-fill
+  icon-name: Arrow  Elbow  Down  Right
+  icon-code: \ee1a
+- icon-class-name: icon-lux-arrow-elbow-left-fill
+  icon-name: Arrow  Elbow  Left
+  icon-code: \ee1b
+- icon-class-name: icon-lux-arrow-elbow-left-down-fill
+  icon-name: Arrow  Elbow  Left  Down
+  icon-code: \ee1c
+- icon-class-name: icon-lux-arrow-elbow-left-up-fill
+  icon-name: Arrow  Elbow  Left  Up
+  icon-code: \ee1d
+- icon-class-name: icon-lux-arrow-elbow-right-fill
+  icon-name: Arrow  Elbow  Right
+  icon-code: \ee1e
+- icon-class-name: icon-lux-arrow-elbow-right-down-fill
+  icon-name: Arrow  Elbow  Right  Down
+  icon-code: \ee1f
+- icon-class-name: icon-lux-arrow-elbow-right-up-fill
+  icon-name: Arrow  Elbow  Right  Up
+  icon-code: \ee20
+- icon-class-name: icon-lux-arrow-elbow-up-left-fill
+  icon-name: Arrow  Elbow  Up  Left
+  icon-code: \ee21
+- icon-class-name: icon-lux-arrow-elbow-up-right-fill
+  icon-name: Arrow  Elbow  Up  Right
+  icon-code: \ee22
+- icon-class-name: icon-lux-arrow-fat-down-fill
+  icon-name: Arrow  Fat  Down
+  icon-code: \ee23
+- icon-class-name: icon-lux-arrow-fat-left-fill
+  icon-name: Arrow  Fat  Left
+  icon-code: \ee24
+- icon-class-name: icon-lux-arrow-fat-line-down-fill
+  icon-name: Arrow  Fat  Line  Down
+  icon-code: \ee25
+- icon-class-name: icon-lux-arrow-fat-line-left-fill
+  icon-name: Arrow  Fat  Line  Left
+  icon-code: \ee26
+- icon-class-name: icon-lux-arrow-fat-line-right-fill
+  icon-name: Arrow  Fat  Line  Right
+  icon-code: \ee27
+- icon-class-name: icon-lux-arrow-fat-lines-down-fill
+  icon-name: Arrow  Fat  Lines  Down
+  icon-code: \ee28
+- icon-class-name: icon-lux-arrow-fat-lines-left-fill
+  icon-name: Arrow  Fat  Lines  Left
+  icon-code: \ee29
+- icon-class-name: icon-lux-arrow-fat-lines-right-fill
+  icon-name: Arrow  Fat  Lines  Right
+  icon-code: \ee2a
+- icon-class-name: icon-lux-arrow-fat-lines-up-fill
+  icon-name: Arrow  Fat  Lines  Up
+  icon-code: \ee2b
+- icon-class-name: icon-lux-arrow-fat-line-up-fill
+  icon-name: Arrow  Fat  Line  Up
+  icon-code: \ee2c
+- icon-class-name: icon-lux-arrow-fat-right-fill
+  icon-name: Arrow  Fat  Right
+  icon-code: \ee2d
+- icon-class-name: icon-lux-arrow-fat-up-fill
+  icon-name: Arrow  Fat  Up
+  icon-code: \ee2e
+- icon-class-name: icon-lux-arrow-left-fill
+  icon-name: Arrow  Left
+  icon-code: \ee2f
+- icon-class-name: icon-lux-arrow-line-down-fill
+  icon-name: Arrow  Line  Down
+  icon-code: \ee30
+- icon-class-name: icon-lux-arrow-line-down-left-fill
+  icon-name: Arrow  Line  Down  Left
+  icon-code: \ee31
+- icon-class-name: icon-lux-arrow-line-down-right-fill
+  icon-name: Arrow  Line  Down  Right
+  icon-code: \ee32
+- icon-class-name: icon-lux-arrow-line-left-fill
+  icon-name: Arrow  Line  Left
+  icon-code: \ee33
+- icon-class-name: icon-lux-arrow-line-right-fill
+  icon-name: Arrow  Line  Right
+  icon-code: \ee34
+- icon-class-name: icon-lux-arrow-line-up-fill
+  icon-name: Arrow  Line  Up
+  icon-code: \ee35
+- icon-class-name: icon-lux-arrow-line-up-left-fill
+  icon-name: Arrow  Line  Up  Left
+  icon-code: \ee36
+- icon-class-name: icon-lux-arrow-line-up-right-fill
+  icon-name: Arrow  Line  Up  Right
+  icon-code: \ee37
+- icon-class-name: icon-lux-arrow-right-fill
+  icon-name: Arrow  Right
+  icon-code: \ee38
+- icon-class-name: icon-lux-arrows-clockwise-fill
+  icon-name: Arrows  Clockwise
+  icon-code: \ee39
+- icon-class-name: icon-lux-arrows-counter-clockwise-fill
+  icon-name: Arrows  Counter  Clockwise
+  icon-code: \ee3a
+- icon-class-name: icon-lux-arrows-down-up-fill
+  icon-name: Arrows  Down  Up
+  icon-code: \ee3b
+- icon-class-name: icon-lux-arrows-horizontal-fill
+  icon-name: Arrows  Horizontal
+  icon-code: \ee3c
+- icon-class-name: icon-lux-arrows-in-fill
+  icon-name: Arrows  In
+  icon-code: \ee3d
+- icon-class-name: icon-lux-arrows-in-cardinal-fill
+  icon-name: Arrows  In  Cardinal
+  icon-code: \ee3e
+- icon-class-name: icon-lux-arrows-in-line-horizontal-fill
+  icon-name: Arrows  In  Line  Horizontal
+  icon-code: \ee3f
+- icon-class-name: icon-lux-arrows-in-line-vertical-fill
+  icon-name: Arrows  In  Line  Vertical
+  icon-code: \ee40
+- icon-class-name: icon-lux-arrows-in-simple-fill
+  icon-name: Arrows  In  Simple
+  icon-code: \ee41
+- icon-class-name: icon-lux-arrows-left-right-fill
+  icon-name: Arrows  Left  Right
+  icon-code: \ee42
+- icon-class-name: icon-lux-arrows-merge-fill
+  icon-name: Arrows  Merge
+  icon-code: \ee43
+- icon-class-name: icon-lux-arrows-out-fill
+  icon-name: Arrows  Out
+  icon-code: \ee44
+- icon-class-name: icon-lux-arrows-out-cardinal-fill
+  icon-name: Arrows  Out  Cardinal
+  icon-code: \ee45
+- icon-class-name: icon-lux-arrows-out-line-horizontal-fill
+  icon-name: Arrows  Out  Line  Horizontal
+  icon-code: \ee46
+- icon-class-name: icon-lux-arrows-out-line-vertical-fill
+  icon-name: Arrows  Out  Line  Vertical
+  icon-code: \ee47
+- icon-class-name: icon-lux-arrows-out-simple-fill
+  icon-name: Arrows  Out  Simple
+  icon-code: \ee48
+- icon-class-name: icon-lux-arrow-square-down-fill
+  icon-name: Arrow  Square  Down
+  icon-code: \ee49
+- icon-class-name: icon-lux-arrow-square-down-left-fill
+  icon-name: Arrow  Square  Down  Left
+  icon-code: \ee4a
+- icon-class-name: icon-lux-arrow-square-down-right-fill
+  icon-name: Arrow  Square  Down  Right
+  icon-code: \ee4b
+- icon-class-name: icon-lux-arrow-square-in-fill
+  icon-name: Arrow  Square  In
+  icon-code: \ee4c
+- icon-class-name: icon-lux-arrow-square-left-fill
+  icon-name: Arrow  Square  Left
+  icon-code: \ee4d
+- icon-class-name: icon-lux-arrow-square-out-fill
+  icon-name: Arrow  Square  Out
+  icon-code: \ee4e
+- icon-class-name: icon-lux-arrow-square-right-fill
+  icon-name: Arrow  Square  Right
+  icon-code: \ee4f
+- icon-class-name: icon-lux-arrow-square-up-fill
+  icon-name: Arrow  Square  Up
+  icon-code: \ee50
+- icon-class-name: icon-lux-arrow-square-up-left-fill
+  icon-name: Arrow  Square  Up  Left
+  icon-code: \ee51
+- icon-class-name: icon-lux-arrow-square-up-right-fill
+  icon-name: Arrow  Square  Up  Right
+  icon-code: \ee52
+- icon-class-name: icon-lux-arrows-split-fill
+  icon-name: Arrows  Split
+  icon-code: \ee53
+- icon-class-name: icon-lux-arrows-vertical-fill
+  icon-name: Arrows  Vertical
+  icon-code: \ee54
+- icon-class-name: icon-lux-arrow-u-down-left-fill
+  icon-name: Arrow U Down  Left
+  icon-code: \ee55
+- icon-class-name: icon-lux-arrow-u-down-right-fill
+  icon-name: Arrow U Down  Right
+  icon-code: \ee56
+- icon-class-name: icon-lux-arrow-u-left-down-fill
+  icon-name: Arrow U Left  Down
+  icon-code: \ee57
+- icon-class-name: icon-lux-arrow-u-left-up-fill
+  icon-name: Arrow U Left  Up
+  icon-code: \ee58
+- icon-class-name: icon-lux-arrow-up-fill
+  icon-name: Arrow  Up
+  icon-code: \ee59
+- icon-class-name: icon-lux-arrow-up-left-fill
+  icon-name: Arrow  Up  Left
+  icon-code: \ee5a
+- icon-class-name: icon-lux-arrow-up-right-fill
+  icon-name: Arrow  Up  Right
+  icon-code: \ee5b
+- icon-class-name: icon-lux-arrow-u-right-down-fill
+  icon-name: Arrow U Right  Down
+  icon-code: \ee5c
+- icon-class-name: icon-lux-arrow-u-right-up-fill
+  icon-name: Arrow U Right  Up
+  icon-code: \ee5d
+- icon-class-name: icon-lux-arrow-u-up-left-fill
+  icon-name: Arrow U Up  Left
+  icon-code: \ee5e
+- icon-class-name: icon-lux-arrow-u-up-right-fill
+  icon-name: Arrow U Up  Right
+  icon-code: \ee5f
+- icon-class-name: icon-lux-article-fill
+  icon-name: Article
+  icon-code: \ee60
+- icon-class-name: icon-lux-article-medium-fill
+  icon-name: Article  Medium
+  icon-code: \ee61
+- icon-class-name: icon-lux-article-ny-times-fill
+  icon-name: Article  Ny  Times
+  icon-code: \ee62
+- icon-class-name: icon-lux-asterisk-fill
+  icon-name: Asterisk
+  icon-code: \ee63
+- icon-class-name: icon-lux-asterisk-simple-fill
+  icon-name: Asterisk  Simple
+  icon-code: \ee64
+- icon-class-name: icon-lux-at-fill
+  icon-name: At
+  icon-code: \ee65
+- icon-class-name: icon-lux-atom-fill
+  icon-name: Atom
+  icon-code: \ee66
+- icon-class-name: icon-lux-baby-fill
+  icon-name: Baby
+  icon-code: \ee67
+- icon-class-name: icon-lux-backpack-fill
+  icon-name: Backpack
+  icon-code: \ee68
+- icon-class-name: icon-lux-backspace-fill
+  icon-name: Backspace
+  icon-code: \ee69
+- icon-class-name: icon-lux-bag-fill
+  icon-name: Bag
+  icon-code: \ee6a
+- icon-class-name: icon-lux-bag-simple-fill
+  icon-name: Bag  Simple
+  icon-code: \ee6b
+- icon-class-name: icon-lux-balloon-fill
+  icon-name: Balloon
+  icon-code: \ee6c
+- icon-class-name: icon-lux-bandaids-fill
+  icon-name: Bandaids
+  icon-code: \ee6d
+- icon-class-name: icon-lux-bank-fill
+  icon-name: Bank
+  icon-code: \ee6e
+- icon-class-name: icon-lux-barbell-fill
+  icon-name: Barbell
+  icon-code: \ee6f
+- icon-class-name: icon-lux-barcode-fill
+  icon-name: Barcode
+  icon-code: \ee70
+- icon-class-name: icon-lux-barricade-fill
+  icon-name: Barricade
+  icon-code: \ee71
+- icon-class-name: icon-lux-baseball-fill
+  icon-name: Baseball
+  icon-code: \ee72
+- icon-class-name: icon-lux-baseball-cap-fill
+  icon-name: Baseball  Cap
+  icon-code: \ee73
+- icon-class-name: icon-lux-basket-fill
+  icon-name: Basket
+  icon-code: \ee74
+- icon-class-name: icon-lux-basketball-fill
+  icon-name: Basketball
+  icon-code: \ee75
+- icon-class-name: icon-lux-bathtub-fill
+  icon-name: Bathtub
+  icon-code: \ee76
+- icon-class-name: icon-lux-battery-charging-fill
+  icon-name: Battery  Charging
+  icon-code: \ee77
+- icon-class-name: icon-lux-battery-charging-vertical-fill
+  icon-name: Battery  Charging  Vertical
+  icon-code: \ee78
+- icon-class-name: icon-lux-battery-empty-fill
+  icon-name: Battery  Empty
+  icon-code: \ee79
+- icon-class-name: icon-lux-battery-full-fill
+  icon-name: Battery  Full
+  icon-code: \ee7a
+- icon-class-name: icon-lux-battery-high-fill
+  icon-name: Battery  High
+  icon-code: \ee7b
+- icon-class-name: icon-lux-battery-low-fill
+  icon-name: Battery  Low
+  icon-code: \ee7c
+- icon-class-name: icon-lux-battery-medium-fill
+  icon-name: Battery  Medium
+  icon-code: \ee7d
+- icon-class-name: icon-lux-battery-plus-fill
+  icon-name: Battery  Plus
+  icon-code: \ee7e
+- icon-class-name: icon-lux-battery-plus-vertical-fill
+  icon-name: Battery  Plus  Vertical
+  icon-code: \ee7f
+- icon-class-name: icon-lux-battery-vertical-empty-fill
+  icon-name: Battery  Vertical  Empty
+  icon-code: \ee80
+- icon-class-name: icon-lux-battery-vertical-full-fill
+  icon-name: Battery  Vertical  Full
+  icon-code: \ee81
+- icon-class-name: icon-lux-battery-vertical-high-fill
+  icon-name: Battery  Vertical  High
+  icon-code: \ee82
+- icon-class-name: icon-lux-battery-vertical-low-fill
+  icon-name: Battery  Vertical  Low
+  icon-code: \ee83
+- icon-class-name: icon-lux-battery-vertical-medium-fill
+  icon-name: Battery  Vertical  Medium
+  icon-code: \ee84
+- icon-class-name: icon-lux-battery-warning-fill
+  icon-name: Battery  Warning
+  icon-code: \ee85
+- icon-class-name: icon-lux-battery-warning-vertical-fill
+  icon-name: Battery  Warning  Vertical
+  icon-code: \ee86
+- icon-class-name: icon-lux-bed-fill
+  icon-name: Bed
+  icon-code: \ee87
+- icon-class-name: icon-lux-beer-bottle-fill
+  icon-name: Beer  Bottle
+  icon-code: \ee88
+- icon-class-name: icon-lux-beer-stein-fill
+  icon-name: Beer  Stein
+  icon-code: \ee89
+- icon-class-name: icon-lux-behance-logo-fill
+  icon-name: Behance  Logo
+  icon-code: \ee8a
+- icon-class-name: icon-lux-bell-fill
+  icon-name: Bell
+  icon-code: \ee8b
+- icon-class-name: icon-lux-bell-ringing-fill
+  icon-name: Bell  Ringing
+  icon-code: \ee8c
+- icon-class-name: icon-lux-bell-simple-fill
+  icon-name: Bell  Simple
+  icon-code: \ee8d
+- icon-class-name: icon-lux-bell-simple-ringing-fill
+  icon-name: Bell  Simple  Ringing
+  icon-code: \ee8e
+- icon-class-name: icon-lux-bell-simple-slash-fill
+  icon-name: Bell  Simple  Slash
+  icon-code: \ee8f
+- icon-class-name: icon-lux-bell-simple-z-fill
+  icon-name: Bell  Simple Z
+  icon-code: \ee90
+- icon-class-name: icon-lux-bell-slash-fill
+  icon-name: Bell  Slash
+  icon-code: \ee91
+- icon-class-name: icon-lux-bell-z-fill
+  icon-name: Bell Z
+  icon-code: \ee92
+- icon-class-name: icon-lux-bezier-curve-fill
+  icon-name: Bezier  Curve
+  icon-code: \ee93
+- icon-class-name: icon-lux-bicycle-fill
+  icon-name: Bicycle
+  icon-code: \ee94
+- icon-class-name: icon-lux-binoculars-fill
+  icon-name: Binoculars
+  icon-code: \ee95
+- icon-class-name: icon-lux-bird-fill
+  icon-name: Bird
+  icon-code: \ee96
+- icon-class-name: icon-lux-bluetooth-fill
+  icon-name: Bluetooth
+  icon-code: \ee97
+- icon-class-name: icon-lux-bluetooth-connected-fill
+  icon-name: Bluetooth  Connected
+  icon-code: \ee98
+- icon-class-name: icon-lux-bluetooth-slash-fill
+  icon-name: Bluetooth  Slash
+  icon-code: \ee99
+- icon-class-name: icon-lux-bluetooth-x-fill
+  icon-name: Bluetooth X
+  icon-code: \ee9a
+- icon-class-name: icon-lux-boat-fill
+  icon-name: Boat
+  icon-code: \ee9b
+- icon-class-name: icon-lux-bone-fill
+  icon-name: Bone
+  icon-code: \ee9c
+- icon-class-name: icon-lux-book-fill
+  icon-name: Book
+  icon-code: \ee9d
+- icon-class-name: icon-lux-book-bookmark-fill
+  icon-name: Book  Bookmark
+  icon-code: \ee9e
+- icon-class-name: icon-lux-bookmark-fill
+  icon-name: Bookmark
+  icon-code: \ee9f
+- icon-class-name: icon-lux-bookmarks-fill
+  icon-name: Bookmarks
+  icon-code: \eea0
+- icon-class-name: icon-lux-bookmark-simple-fill
+  icon-name: Bookmark  Simple
+  icon-code: \eea1
+- icon-class-name: icon-lux-bookmarks-simple-fill
+  icon-name: Bookmarks  Simple
+  icon-code: \eea2
+- icon-class-name: icon-lux-book-open-fill
+  icon-name: Book  Open
+  icon-code: \eea3
+- icon-class-name: icon-lux-book-open-text-fill
+  icon-name: Book  Open  Text
+  icon-code: \eea4
+- icon-class-name: icon-lux-books-fill
+  icon-name: Books
+  icon-code: \eea5
+- icon-class-name: icon-lux-boot-fill
+  icon-name: Boot
+  icon-code: \eea6
+- icon-class-name: icon-lux-bounding-box-fill
+  icon-name: Bounding  Box
+  icon-code: \eea7
+- icon-class-name: icon-lux-bowl-food-fill
+  icon-name: Bowl  Food
+  icon-code: \eea8
+- icon-class-name: icon-lux-brackets-angle-fill
+  icon-name: Brackets  Angle
+  icon-code: \eea9
+- icon-class-name: icon-lux-brackets-curly-fill
+  icon-name: Brackets  Curly
+  icon-code: \eeaa
+- icon-class-name: icon-lux-brackets-round-fill
+  icon-name: Brackets  Round
+  icon-code: \eeab
+- icon-class-name: icon-lux-brackets-square-fill
+  icon-name: Brackets  Square
+  icon-code: \eeac
+- icon-class-name: icon-lux-brain-fill
+  icon-name: Brain
+  icon-code: \eead
+- icon-class-name: icon-lux-brandy-fill
+  icon-name: Brandy
+  icon-code: \eeae
+- icon-class-name: icon-lux-bridge-fill
+  icon-name: Bridge
+  icon-code: \eeaf
+- icon-class-name: icon-lux-briefcase-fill
+  icon-name: Briefcase
+  icon-code: \eeb0
+- icon-class-name: icon-lux-briefcase-metal-fill
+  icon-name: Briefcase  Metal
+  icon-code: \eeb1
+- icon-class-name: icon-lux-broadcast-fill
+  icon-name: Broadcast
+  icon-code: \eeb2
+- icon-class-name: icon-lux-broom-fill
+  icon-name: Broom
+  icon-code: \eeb3
+- icon-class-name: icon-lux-browser-fill
+  icon-name: Browser
+  icon-code: \eeb4
+- icon-class-name: icon-lux-browsers-fill
+  icon-name: Browsers
+  icon-code: \eeb5
+- icon-class-name: icon-lux-bug-fill
+  icon-name: Bug
+  icon-code: \eeb6
+- icon-class-name: icon-lux-bug-beetle-fill
+  icon-name: Bug  Beetle
+  icon-code: \eeb7
+- icon-class-name: icon-lux-bug-droid-fill
+  icon-name: Bug  Droid
+  icon-code: \eeb8
+- icon-class-name: icon-lux-buildings-fill
+  icon-name: Buildings
+  icon-code: \eeb9
+- icon-class-name: icon-lux-bus-fill
+  icon-name: Bus
+  icon-code: \eeba
+- icon-class-name: icon-lux-butterfly-fill
+  icon-name: Butterfly
+  icon-code: \eebb
+- icon-class-name: icon-lux-cactus-fill
+  icon-name: Cactus
+  icon-code: \eebc
+- icon-class-name: icon-lux-cake-fill
+  icon-name: Cake
+  icon-code: \eebd
+- icon-class-name: icon-lux-calculator-fill
+  icon-name: Calculator
+  icon-code: \eebe
+- icon-class-name: icon-lux-calendar-fill
+  icon-name: Calendar
+  icon-code: \eebf
+- icon-class-name: icon-lux-calendar-blank-fill
+  icon-name: Calendar  Blank
+  icon-code: \eec0
+- icon-class-name: icon-lux-calendar-check-fill
+  icon-name: Calendar  Check
+  icon-code: \eec1
+- icon-class-name: icon-lux-calendar-plus-fill
+  icon-name: Calendar  Plus
+  icon-code: \eec2
+- icon-class-name: icon-lux-calendar-x-fill
+  icon-name: Calendar X
+  icon-code: \eec3
+- icon-class-name: icon-lux-call-bell-fill
+  icon-name: Call  Bell
+  icon-code: \eec4
+- icon-class-name: icon-lux-camera-fill
+  icon-name: Camera
+  icon-code: \eec5
+- icon-class-name: icon-lux-camera-plus-fill
+  icon-name: Camera  Plus
+  icon-code: \eec6
+- icon-class-name: icon-lux-camera-rotate-fill
+  icon-name: Camera  Rotate
+  icon-code: \eec7
+- icon-class-name: icon-lux-camera-slash-fill
+  icon-name: Camera  Slash
+  icon-code: \eec8
+- icon-class-name: icon-lux-campfire-fill
+  icon-name: Campfire
+  icon-code: \eec9
+- icon-class-name: icon-lux-car-fill
+  icon-name: Car
+  icon-code: \eeca
+- icon-class-name: icon-lux-cardholder-fill
+  icon-name: Cardholder
+  icon-code: \eecb
+- icon-class-name: icon-lux-cards-fill
+  icon-name: Cards
+  icon-code: \eecc
+- icon-class-name: icon-lux-caret-circle-double-down-fill
+  icon-name: Caret  Circle  Double  Down
+  icon-code: \eecd
+- icon-class-name: icon-lux-caret-circle-double-left-fill
+  icon-name: Caret  Circle  Double  Left
+  icon-code: \eece
+- icon-class-name: icon-lux-caret-circle-double-right-fill
+  icon-name: Caret  Circle  Double  Right
+  icon-code: \eecf
+- icon-class-name: icon-lux-caret-circle-double-up-fill
+  icon-name: Caret  Circle  Double  Up
+  icon-code: \eed0
+- icon-class-name: icon-lux-caret-circle-down-fill
+  icon-name: Caret  Circle  Down
+  icon-code: \eed1
+- icon-class-name: icon-lux-caret-circle-left-fill
+  icon-name: Caret  Circle  Left
+  icon-code: \eed2
+- icon-class-name: icon-lux-caret-circle-right-fill
+  icon-name: Caret  Circle  Right
+  icon-code: \eed3
+- icon-class-name: icon-lux-caret-circle-up-fill
+  icon-name: Caret  Circle  Up
+  icon-code: \eed4
+- icon-class-name: icon-lux-caret-circle-up-down-fill
+  icon-name: Caret  Circle  Up  Down
+  icon-code: \eed5
+- icon-class-name: icon-lux-caret-double-down-fill
+  icon-name: Caret  Double  Down
+  icon-code: \eed6
+- icon-class-name: icon-lux-caret-double-left-fill
+  icon-name: Caret  Double  Left
+  icon-code: \eed7
+- icon-class-name: icon-lux-caret-double-right-fill
+  icon-name: Caret  Double  Right
+  icon-code: \eed8
+- icon-class-name: icon-lux-caret-double-up-fill
+  icon-name: Caret  Double  Up
+  icon-code: \eed9
+- icon-class-name: icon-lux-caret-down-fill
+  icon-name: Caret  Down
+  icon-code: \eeda
+- icon-class-name: icon-lux-caret-left-fill
+  icon-name: Caret  Left
+  icon-code: \eedb
+- icon-class-name: icon-lux-caret-right-fill
+  icon-name: Caret  Right
+  icon-code: \eedc
+- icon-class-name: icon-lux-caret-up-fill
+  icon-name: Caret  Up
+  icon-code: \eedd
+- icon-class-name: icon-lux-caret-up-down-fill
+  icon-name: Caret  Up  Down
+  icon-code: \eede
+- icon-class-name: icon-lux-car-profile-fill
+  icon-name: Car  Profile
+  icon-code: \eedf
+- icon-class-name: icon-lux-carrot-fill
+  icon-name: Carrot
+  icon-code: \eee0
+- icon-class-name: icon-lux-car-simple-fill
+  icon-name: Car  Simple
+  icon-code: \eee1
+- icon-class-name: icon-lux-cassette-tape-fill
+  icon-name: Cassette  Tape
+  icon-code: \eee2
+- icon-class-name: icon-lux-castle-turret-fill
+  icon-name: Castle  Turret
+  icon-code: \eee3
+- icon-class-name: icon-lux-cat-fill
+  icon-name: Cat
+  icon-code: \eee4
+- icon-class-name: icon-lux-cell-signal-full-fill
+  icon-name: Cell  Signal  Full
+  icon-code: \eee5
+- icon-class-name: icon-lux-cell-signal-high-fill
+  icon-name: Cell  Signal  High
+  icon-code: \eee6
+- icon-class-name: icon-lux-cell-signal-low-fill
+  icon-name: Cell  Signal  Low
+  icon-code: \eee7
+- icon-class-name: icon-lux-cell-signal-medium-fill
+  icon-name: Cell  Signal  Medium
+  icon-code: \eee8
+- icon-class-name: icon-lux-cell-signal-none-fill
+  icon-name: Cell  Signal  None
+  icon-code: \eee9
+- icon-class-name: icon-lux-cell-signal-slash-fill
+  icon-name: Cell  Signal  Slash
+  icon-code: \eeea
+- icon-class-name: icon-lux-cell-signal-x-fill
+  icon-name: Cell  Signal X
+  icon-code: \eeeb
+- icon-class-name: icon-lux-certificate-fill
+  icon-name: Certificate
+  icon-code: \eeec
+- icon-class-name: icon-lux-chair-fill
+  icon-name: Chair
+  icon-code: \eeed
+- icon-class-name: icon-lux-chalkboard-fill
+  icon-name: Chalkboard
+  icon-code: \eeee
+- icon-class-name: icon-lux-chalkboard-simple-fill
+  icon-name: Chalkboard  Simple
+  icon-code: \eeef
+- icon-class-name: icon-lux-chalkboard-teacher-fill
+  icon-name: Chalkboard  Teacher
+  icon-code: \eef0
+- icon-class-name: icon-lux-champagne-fill
+  icon-name: Champagne
+  icon-code: \eef1
+- icon-class-name: icon-lux-charging-station-fill
+  icon-name: Charging  Station
+  icon-code: \eef2
+- icon-class-name: icon-lux-chart-bar-fill
+  icon-name: Chart  Bar
+  icon-code: \eef3
+- icon-class-name: icon-lux-chart-bar-horizontal-fill
+  icon-name: Chart  Bar  Horizontal
+  icon-code: \eef4
+- icon-class-name: icon-lux-chart-donut-fill
+  icon-name: Chart  Donut
+  icon-code: \eef5
+- icon-class-name: icon-lux-chart-line-fill
+  icon-name: Chart  Line
+  icon-code: \eef6
+- icon-class-name: icon-lux-chart-line-down-fill
+  icon-name: Chart  Line  Down
+  icon-code: \eef7
+- icon-class-name: icon-lux-chart-line-up-fill
+  icon-name: Chart  Line  Up
+  icon-code: \eef8
+- icon-class-name: icon-lux-chart-pie-fill
+  icon-name: Chart  Pie
+  icon-code: \eef9
+- icon-class-name: icon-lux-chart-pie-slice-fill
+  icon-name: Chart  Pie  Slice
+  icon-code: \eefa
+- icon-class-name: icon-lux-chart-polar-fill
+  icon-name: Chart  Polar
+  icon-code: \eefb
+- icon-class-name: icon-lux-chart-scatter-fill
+  icon-name: Chart  Scatter
+  icon-code: \eefc
+- icon-class-name: icon-lux-chat-fill
+  icon-name: Chat
+  icon-code: \eefd
+- icon-class-name: icon-lux-chat-centered-fill
+  icon-name: Chat  Centered
+  icon-code: \eefe
+- icon-class-name: icon-lux-chat-centered-dots-fill
+  icon-name: Chat  Centered  Dots
+  icon-code: \eeff
+- icon-class-name: icon-lux-chat-centered-text-fill
+  icon-name: Chat  Centered  Text
+  icon-code: \ef00
+- icon-class-name: icon-lux-chat-circle-fill
+  icon-name: Chat  Circle
+  icon-code: \ef01
+- icon-class-name: icon-lux-chat-circle-dots-fill
+  icon-name: Chat  Circle  Dots
+  icon-code: \ef02
+- icon-class-name: icon-lux-chat-circle-text-fill
+  icon-name: Chat  Circle  Text
+  icon-code: \ef03
+- icon-class-name: icon-lux-chat-dots-fill
+  icon-name: Chat  Dots
+  icon-code: \ef04
+- icon-class-name: icon-lux-chats-fill
+  icon-name: Chats
+  icon-code: \ef05
+- icon-class-name: icon-lux-chats-circle-fill
+  icon-name: Chats  Circle
+  icon-code: \ef06
+- icon-class-name: icon-lux-chats-teardrop-fill
+  icon-name: Chats  Teardrop
+  icon-code: \ef07
+- icon-class-name: icon-lux-chat-teardrop-fill
+  icon-name: Chat  Teardrop
+  icon-code: \ef08
+- icon-class-name: icon-lux-chat-teardrop-dots-fill
+  icon-name: Chat  Teardrop  Dots
+  icon-code: \ef09
+- icon-class-name: icon-lux-chat-teardrop-text-fill
+  icon-name: Chat  Teardrop  Text
+  icon-code: \ef0a
+- icon-class-name: icon-lux-chat-text-fill
+  icon-name: Chat  Text
+  icon-code: \ef0b
+- icon-class-name: icon-lux-check-fill
+  icon-name: Check
+  icon-code: \ef0c
+- icon-class-name: icon-lux-check-circle-fill
+  icon-name: Check  Circle
+  icon-code: \ef0d
+- icon-class-name: icon-lux-check-fat-fill
+  icon-name: Check  Fat
+  icon-code: \ef0e
+- icon-class-name: icon-lux-checks-fill
+  icon-name: Checks
+  icon-code: \ef0f
+- icon-class-name: icon-lux-check-square-fill
+  icon-name: Check  Square
+  icon-code: \ef10
+- icon-class-name: icon-lux-check-square-offset-fill
+  icon-name: Check  Square  Offset
+  icon-code: \ef11
+- icon-class-name: icon-lux-church-fill
+  icon-name: Church
+  icon-code: \ef12
+- icon-class-name: icon-lux-circle-fill
+  icon-name: Circle
+  icon-code: \ef13
+- icon-class-name: icon-lux-circle-dashed-fill
+  icon-name: Circle  Dashed
+  icon-code: \ef14
+- icon-class-name: icon-lux-circle-half-fill
+  icon-name: Circle  Half
+  icon-code: \ef15
+- icon-class-name: icon-lux-circle-half-tilt-fill
+  icon-name: Circle  Half  Tilt
+  icon-code: \ef16
+- icon-class-name: icon-lux-circle-notch-fill
+  icon-name: Circle  Notch
+  icon-code: \ef17
+- icon-class-name: icon-lux-circles-four-fill
+  icon-name: Circles  Four
+  icon-code: \ef18
+- icon-class-name: icon-lux-circles-three-fill
+  icon-name: Circles  Three
+  icon-code: \ef19
+- icon-class-name: icon-lux-circles-three-plus-fill
+  icon-name: Circles  Three  Plus
+  icon-code: \ef1a
+- icon-class-name: icon-lux-circuitry-fill
+  icon-name: Circuitry
+  icon-code: \ef1b
+- icon-class-name: icon-lux-clipboard-fill
+  icon-name: Clipboard
+  icon-code: \ef1c
+- icon-class-name: icon-lux-clipboard-text-fill
+  icon-name: Clipboard  Text
+  icon-code: \ef1d
+- icon-class-name: icon-lux-clock-fill
+  icon-name: Clock
+  icon-code: \ef1e
+- icon-class-name: icon-lux-clock-afternoon-fill
+  icon-name: Clock  Afternoon
+  icon-code: \ef1f
+- icon-class-name: icon-lux-clock-clockwise-fill
+  icon-name: Clock  Clockwise
+  icon-code: \ef20
+- icon-class-name: icon-lux-clock-countdown-fill
+  icon-name: Clock  Countdown
+  icon-code: \ef21
+- icon-class-name: icon-lux-clock-counter-clockwise-fill
+  icon-name: Clock  Counter  Clockwise
+  icon-code: \ef22
+- icon-class-name: icon-lux-closed-captioning-fill
+  icon-name: Closed  Captioning
+  icon-code: \ef23
+- icon-class-name: icon-lux-cloud-fill
+  icon-name: Cloud
+  icon-code: \ef24
+- icon-class-name: icon-lux-cloud-arrow-down-fill
+  icon-name: Cloud  Arrow  Down
+  icon-code: \ef25
+- icon-class-name: icon-lux-cloud-arrow-up-fill
+  icon-name: Cloud  Arrow  Up
+  icon-code: \ef26
+- icon-class-name: icon-lux-cloud-check-fill
+  icon-name: Cloud  Check
+  icon-code: \ef27
+- icon-class-name: icon-lux-cloud-fog-fill
+  icon-name: Cloud  Fog
+  icon-code: \ef28
+- icon-class-name: icon-lux-cloud-lightning-fill
+  icon-name: Cloud  Lightning
+  icon-code: \ef29
+- icon-class-name: icon-lux-cloud-moon-fill
+  icon-name: Cloud  Moon
+  icon-code: \ef2a
+- icon-class-name: icon-lux-cloud-rain-fill
+  icon-name: Cloud  Rain
+  icon-code: \ef2b
+- icon-class-name: icon-lux-cloud-slash-fill
+  icon-name: Cloud  Slash
+  icon-code: \ef2c
+- icon-class-name: icon-lux-cloud-snow-fill
+  icon-name: Cloud  Snow
+  icon-code: \ef2d
+- icon-class-name: icon-lux-cloud-sun-fill
+  icon-name: Cloud  Sun
+  icon-code: \ef2e
+- icon-class-name: icon-lux-cloud-warning-fill
+  icon-name: Cloud  Warning
+  icon-code: \ef2f
+- icon-class-name: icon-lux-cloud-x-fill
+  icon-name: Cloud X
+  icon-code: \ef30
+- icon-class-name: icon-lux-club-fill
+  icon-name: Club
+  icon-code: \ef31
+- icon-class-name: icon-lux-coat-hanger-fill
+  icon-name: Coat  Hanger
+  icon-code: \ef32
+- icon-class-name: icon-lux-coda-logo-fill
+  icon-name: Coda  Logo
+  icon-code: \ef33
+- icon-class-name: icon-lux-code-fill
+  icon-name: Code
+  icon-code: \ef34
+- icon-class-name: icon-lux-code-block-fill
+  icon-name: Code  Block
+  icon-code: \ef35
+- icon-class-name: icon-lux-codepen-logo-fill
+  icon-name: Codepen  Logo
+  icon-code: \ef36
+- icon-class-name: icon-lux-codesandbox-logo-fill
+  icon-name: Codesandbox  Logo
+  icon-code: \ef37
+- icon-class-name: icon-lux-code-simple-fill
+  icon-name: Code  Simple
+  icon-code: \ef38
+- icon-class-name: icon-lux-coffee-fill
+  icon-name: Coffee
+  icon-code: \ef39
+- icon-class-name: icon-lux-coin-fill
+  icon-name: Coin
+  icon-code: \ef3a
+- icon-class-name: icon-lux-coins-fill
+  icon-name: Coins
+  icon-code: \ef3b
+- icon-class-name: icon-lux-coin-vertical-fill
+  icon-name: Coin  Vertical
+  icon-code: \ef3c
+- icon-class-name: icon-lux-columns-fill
+  icon-name: Columns
+  icon-code: \ef3d
+- icon-class-name: icon-lux-command-fill
+  icon-name: Command
+  icon-code: \ef3e
+- icon-class-name: icon-lux-compass-fill
+  icon-name: Compass
+  icon-code: \ef3f
+- icon-class-name: icon-lux-compass-tool-fill
+  icon-name: Compass  Tool
+  icon-code: \ef40
+- icon-class-name: icon-lux-computer-tower-fill
+  icon-name: Computer  Tower
+  icon-code: \ef41
+- icon-class-name: icon-lux-confetti-fill
+  icon-name: Confetti
+  icon-code: \ef42
+- icon-class-name: icon-lux-contactless-payment-fill
+  icon-name: Contactless  Payment
+  icon-code: \ef43
+- icon-class-name: icon-lux-control-fill
+  icon-name: Control
+  icon-code: \ef44
+- icon-class-name: icon-lux-cookie-fill
+  icon-name: Cookie
+  icon-code: \ef45
+- icon-class-name: icon-lux-cooking-pot-fill
+  icon-name: Cooking  Pot
+  icon-code: \ef46
+- icon-class-name: icon-lux-copy-fill
+  icon-name: Copy
+  icon-code: \ef47
+- icon-class-name: icon-lux-copyleft-fill
+  icon-name: Copyleft
+  icon-code: \ef48
+- icon-class-name: icon-lux-copyright-fill
+  icon-name: Copyright
+  icon-code: \ef49
+- icon-class-name: icon-lux-copy-simple-fill
+  icon-name: Copy  Simple
+  icon-code: \ef4a
+- icon-class-name: icon-lux-corners-in-fill
+  icon-name: Corners  In
+  icon-code: \ef4b
+- icon-class-name: icon-lux-corners-out-fill
+  icon-name: Corners  Out
+  icon-code: \ef4c
+- icon-class-name: icon-lux-couch-fill
+  icon-name: Couch
+  icon-code: \ef4d
+- icon-class-name: icon-lux-cpu-fill
+  icon-name: Cpu
+  icon-code: \ef4e
+- icon-class-name: icon-lux-credit-card-fill
+  icon-name: Credit  Card
+  icon-code: \ef4f
+- icon-class-name: icon-lux-crop-fill
+  icon-name: Crop
+  icon-code: \ef50
+- icon-class-name: icon-lux-cross-fill
+  icon-name: Cross
+  icon-code: \ef51
+- icon-class-name: icon-lux-crosshair-fill
+  icon-name: Crosshair
+  icon-code: \ef52
+- icon-class-name: icon-lux-crosshair-simple-fill
+  icon-name: Crosshair  Simple
+  icon-code: \ef53
+- icon-class-name: icon-lux-crown-fill
+  icon-name: Crown
+  icon-code: \ef54
+- icon-class-name: icon-lux-crown-simple-fill
+  icon-name: Crown  Simple
+  icon-code: \ef55
+- icon-class-name: icon-lux-cube-fill
+  icon-name: Cube
+  icon-code: \ef56
+- icon-class-name: icon-lux-cube-focus-fill
+  icon-name: Cube  Focus
+  icon-code: \ef57
+- icon-class-name: icon-lux-cube-transparent-fill
+  icon-name: Cube  Transparent
+  icon-code: \ef58
+- icon-class-name: icon-lux-currency-btc-fill
+  icon-name: Currency  Btc
+  icon-code: \ef59
+- icon-class-name: icon-lux-currency-circle-dollar-fill
+  icon-name: Currency  Circle  Dollar
+  icon-code: \ef5a
+- icon-class-name: icon-lux-currency-cny-fill
+  icon-name: Currency  Cny
+  icon-code: \ef5b
+- icon-class-name: icon-lux-currency-dollar-fill
+  icon-name: Currency  Dollar
+  icon-code: \ef5c
+- icon-class-name: icon-lux-currency-dollar-simple-fill
+  icon-name: Currency  Dollar  Simple
+  icon-code: \ef5d
+- icon-class-name: icon-lux-currency-eth-fill
+  icon-name: Currency  Eth
+  icon-code: \ef5e
+- icon-class-name: icon-lux-currency-eur-fill
+  icon-name: Currency  Eur
+  icon-code: \ef5f
+- icon-class-name: icon-lux-currency-gbp-fill
+  icon-name: Currency  Gbp
+  icon-code: \ef60
+- icon-class-name: icon-lux-currency-inr-fill
+  icon-name: Currency  Inr
+  icon-code: \ef61
+- icon-class-name: icon-lux-currency-jpy-fill
+  icon-name: Currency  Jpy
+  icon-code: \ef62
+- icon-class-name: icon-lux-currency-krw-fill
+  icon-name: Currency  Krw
+  icon-code: \ef63
+- icon-class-name: icon-lux-currency-kzt-fill
+  icon-name: Currency  Kzt
+  icon-code: \ef64
+- icon-class-name: icon-lux-currency-ngn-fill
+  icon-name: Currency  Ngn
+  icon-code: \ef65
+- icon-class-name: icon-lux-currency-rub-fill
+  icon-name: Currency  Rub
+  icon-code: \ef66
+- icon-class-name: icon-lux-cursor-fill
+  icon-name: Cursor
+  icon-code: \ef67
+- icon-class-name: icon-lux-cursor-click-fill
+  icon-name: Cursor  Click
+  icon-code: \ef68
+- icon-class-name: icon-lux-cursor-text-fill
+  icon-name: Cursor  Text
+  icon-code: \ef69
+- icon-class-name: icon-lux-cylinder-fill
+  icon-name: Cylinder
+  icon-code: \ef6a
+- icon-class-name: icon-lux-database-fill
+  icon-name: Database
+  icon-code: \ef6b
+- icon-class-name: icon-lux-desktop-fill
+  icon-name: Desktop
+  icon-code: \ef6c
+- icon-class-name: icon-lux-desktop-tower-fill
+  icon-name: Desktop  Tower
+  icon-code: \ef6d
+- icon-class-name: icon-lux-detective-fill
+  icon-name: Detective
+  icon-code: \ef6e
+- icon-class-name: icon-lux-device-mobile-fill
+  icon-name: Device  Mobile
+  icon-code: \ef6f
+- icon-class-name: icon-lux-device-mobile-camera-fill
+  icon-name: Device  Mobile  Camera
+  icon-code: \ef70
+- icon-class-name: icon-lux-device-mobile-speaker-fill
+  icon-name: Device  Mobile  Speaker
+  icon-code: \ef71
+- icon-class-name: icon-lux-devices-fill
+  icon-name: Devices
+  icon-code: \ef72
+- icon-class-name: icon-lux-device-tablet-fill
+  icon-name: Device  Tablet
+  icon-code: \ef73
+- icon-class-name: icon-lux-device-tablet-camera-fill
+  icon-name: Device  Tablet  Camera
+  icon-code: \ef74
+- icon-class-name: icon-lux-device-tablet-speaker-fill
+  icon-name: Device  Tablet  Speaker
+  icon-code: \ef75
+- icon-class-name: icon-lux-dev-to-logo-fill
+  icon-name: Dev  To  Logo
+  icon-code: \ef76
+- icon-class-name: icon-lux-diamond-fill
+  icon-name: Diamond
+  icon-code: \ef77
+- icon-class-name: icon-lux-diamonds-four-fill
+  icon-name: Diamonds  Four
+  icon-code: \ef78
+- icon-class-name: icon-lux-dice-five-fill
+  icon-name: Dice  Five
+  icon-code: \ef79
+- icon-class-name: icon-lux-dice-four-fill
+  icon-name: Dice  Four
+  icon-code: \ef7a
+- icon-class-name: icon-lux-dice-one-fill
+  icon-name: Dice  One
+  icon-code: \ef7b
+- icon-class-name: icon-lux-dice-six-fill
+  icon-name: Dice  Six
+  icon-code: \ef7c
+- icon-class-name: icon-lux-dice-three-fill
+  icon-name: Dice  Three
+  icon-code: \ef7d
+- icon-class-name: icon-lux-dice-two-fill
+  icon-name: Dice  Two
+  icon-code: \ef7e
+- icon-class-name: icon-lux-disc-fill
+  icon-name: Disc
+  icon-code: \ef7f
+- icon-class-name: icon-lux-discord-logo-fill
+  icon-name: Discord  Logo
+  icon-code: \ef80
+- icon-class-name: icon-lux-divide-fill
+  icon-name: Divide
+  icon-code: \ef81
+- icon-class-name: icon-lux-dna-fill
+  icon-name: Dna
+  icon-code: \ef82
+- icon-class-name: icon-lux-dog-fill
+  icon-name: Dog
+  icon-code: \ef83
+- icon-class-name: icon-lux-door-fill
+  icon-name: Door
+  icon-code: \ef84
+- icon-class-name: icon-lux-door-open-fill
+  icon-name: Door  Open
+  icon-code: \ef85
+- icon-class-name: icon-lux-dot-fill
+  icon-name: Dot
+  icon-code: \ef86
+- icon-class-name: icon-lux-dot-outline-fill
+  icon-name: Dot  Outline
+  icon-code: \ef87
+- icon-class-name: icon-lux-dots-nine-fill
+  icon-name: Dots  Nine
+  icon-code: \ef88
+- icon-class-name: icon-lux-dots-six-fill
+  icon-name: Dots  Six
+  icon-code: \ef89
+- icon-class-name: icon-lux-dots-six-vertical-fill
+  icon-name: Dots  Six  Vertical
+  icon-code: \ef8a
+- icon-class-name: icon-lux-dots-three-fill
+  icon-name: Dots  Three
+  icon-code: \ef8b
+- icon-class-name: icon-lux-dots-three-circle-fill
+  icon-name: Dots  Three  Circle
+  icon-code: \ef8c
+- icon-class-name: icon-lux-dots-three-circle-vertical-fill
+  icon-name: Dots  Three  Circle  Vertical
+  icon-code: \ef8d
+- icon-class-name: icon-lux-dots-three-outline-fill
+  icon-name: Dots  Three  Outline
+  icon-code: \ef8e
+- icon-class-name: icon-lux-dots-three-outline-vertical-fill
+  icon-name: Dots  Three  Outline  Vertical
+  icon-code: \ef8f
+- icon-class-name: icon-lux-dots-three-vertical-fill
+  icon-name: Dots  Three  Vertical
+  icon-code: \ef90
+- icon-class-name: icon-lux-download-fill
+  icon-name: Download
+  icon-code: \ef91
+- icon-class-name: icon-lux-download-simple-fill
+  icon-name: Download  Simple
+  icon-code: \ef92
+- icon-class-name: icon-lux-dress-fill
+  icon-name: Dress
+  icon-code: \ef93
+- icon-class-name: icon-lux-dribbble-logo-fill
+  icon-name: Dribbble  Logo
+  icon-code: \ef94
+- icon-class-name: icon-lux-drop-fill
+  icon-name: Drop
+  icon-code: \ef95
+- icon-class-name: icon-lux-dropbox-logo-fill
+  icon-name: Dropbox  Logo
+  icon-code: \ef96
+- icon-class-name: icon-lux-drop-half-fill
+  icon-name: Drop  Half
+  icon-code: \ef97
+- icon-class-name: icon-lux-drop-half-bottom-fill
+  icon-name: Drop  Half  Bottom
+  icon-code: \ef98
+- icon-class-name: icon-lux-ear-fill
+  icon-name: Ear
+  icon-code: \ef99
+- icon-class-name: icon-lux-ear-slash-fill
+  icon-name: Ear  Slash
+  icon-code: \ef9a
+- icon-class-name: icon-lux-egg-fill
+  icon-name: Egg
+  icon-code: \ef9b
+- icon-class-name: icon-lux-egg-crack-fill
+  icon-name: Egg  Crack
+  icon-code: \ef9c
+- icon-class-name: icon-lux-eject-fill
+  icon-name: Eject
+  icon-code: \ef9d
+- icon-class-name: icon-lux-eject-simple-fill
+  icon-name: Eject  Simple
+  icon-code: \ef9e
+- icon-class-name: icon-lux-elevator-fill
+  icon-name: Elevator
+  icon-code: \ef9f
+- icon-class-name: icon-lux-engine-fill
+  icon-name: Engine
+  icon-code: \efa0
+- icon-class-name: icon-lux-envelope-fill
+  icon-name: Envelope
+  icon-code: \efa1
+- icon-class-name: icon-lux-envelope-open-fill
+  icon-name: Envelope  Open
+  icon-code: \efa2
+- icon-class-name: icon-lux-envelope-simple-fill
+  icon-name: Envelope  Simple
+  icon-code: \efa3
+- icon-class-name: icon-lux-envelope-simple-open-fill
+  icon-name: Envelope  Simple  Open
+  icon-code: \efa4
+- icon-class-name: icon-lux-equalizer-fill
+  icon-name: Equalizer
+  icon-code: \efa5
+- icon-class-name: icon-lux-equals-fill
+  icon-name: Equals
+  icon-code: \efa6
+- icon-class-name: icon-lux-eraser-fill
+  icon-name: Eraser
+  icon-code: \efa7
+- icon-class-name: icon-lux-escalator-down-fill
+  icon-name: Escalator  Down
+  icon-code: \efa8
+- icon-class-name: icon-lux-escalator-up-fill
+  icon-name: Escalator  Up
+  icon-code: \efa9
+- icon-class-name: icon-lux-exam-fill
+  icon-name: Exam
+  icon-code: \efaa
+- icon-class-name: icon-lux-exclude-fill
+  icon-name: Exclude
+  icon-code: \efab
+- icon-class-name: icon-lux-exclude-square-fill
+  icon-name: Exclude  Square
+  icon-code: \efac
+- icon-class-name: icon-lux-export-fill
+  icon-name: Export
+  icon-code: \efad
+- icon-class-name: icon-lux-eye-fill
+  icon-name: Eye
+  icon-code: \efae
+- icon-class-name: icon-lux-eye-closed-fill
+  icon-name: Eye  Closed
+  icon-code: \efaf
+- icon-class-name: icon-lux-eyedropper-fill
+  icon-name: Eyedropper
+  icon-code: \efb0
+- icon-class-name: icon-lux-eyedropper-sample-fill
+  icon-name: Eyedropper  Sample
+  icon-code: \efb1
+- icon-class-name: icon-lux-eyeglasses-fill
+  icon-name: Eyeglasses
+  icon-code: \efb2
+- icon-class-name: icon-lux-eye-slash-fill
+  icon-name: Eye  Slash
+  icon-code: \efb3
+- icon-class-name: icon-lux-facebook-logo-fill
+  icon-name: Facebook  Logo
+  icon-code: \efb4
+- icon-class-name: icon-lux-face-mask-fill
+  icon-name: Face  Mask
+  icon-code: \efb5
+- icon-class-name: icon-lux-factory-fill
+  icon-name: Factory
+  icon-code: \efb6
+- icon-class-name: icon-lux-faders-fill
+  icon-name: Faders
+  icon-code: \efb7
+- icon-class-name: icon-lux-faders-horizontal-fill
+  icon-name: Faders  Horizontal
+  icon-code: \efb8
+- icon-class-name: icon-lux-fan-fill
+  icon-name: Fan
+  icon-code: \efb9
+- icon-class-name: icon-lux-fast-forward-fill
+  icon-name: Fast  Forward
+  icon-code: \efba
+- icon-class-name: icon-lux-fast-forward-circle-fill
+  icon-name: Fast  Forward  Circle
+  icon-code: \efbb
+- icon-class-name: icon-lux-feather-fill
+  icon-name: Feather
+  icon-code: \efbc
+- icon-class-name: icon-lux-figma-logo-fill
+  icon-name: Figma  Logo
+  icon-code: \efbd
+- icon-class-name: icon-lux-file-fill
+  icon-name: File
+  icon-code: \efbe
+- icon-class-name: icon-lux-file-archive-fill
+  icon-name: File  Archive
+  icon-code: \efbf
+- icon-class-name: icon-lux-file-arrow-down-fill
+  icon-name: File  Arrow  Down
+  icon-code: \efc0
+- icon-class-name: icon-lux-file-arrow-up-fill
+  icon-name: File  Arrow  Up
+  icon-code: \efc1
+- icon-class-name: icon-lux-file-audio-fill
+  icon-name: File  Audio
+  icon-code: \efc2
+- icon-class-name: icon-lux-file-cloud-fill
+  icon-name: File  Cloud
+  icon-code: \efc3
+- icon-class-name: icon-lux-file-code-fill
+  icon-name: File  Code
+  icon-code: \efc4
+- icon-class-name: icon-lux-file-css-fill
+  icon-name: File  Css
+  icon-code: \efc5
+- icon-class-name: icon-lux-file-csv-fill
+  icon-name: File  Csv
+  icon-code: \efc6
+- icon-class-name: icon-lux-file-dashed-fill
+  icon-name: File  Dashed
+  icon-code: \efc7
+- icon-class-name: icon-lux-file-doc-fill
+  icon-name: File  Doc
+  icon-code: \efc8
+- icon-class-name: icon-lux-file-html-fill
+  icon-name: File  Html
+  icon-code: \efc9
+- icon-class-name: icon-lux-file-image-fill
+  icon-name: File  Image
+  icon-code: \efca
+- icon-class-name: icon-lux-file-jpg-fill
+  icon-name: File  Jpg
+  icon-code: \efcb
+- icon-class-name: icon-lux-file-js-fill
+  icon-name: File  Js
+  icon-code: \efcc
+- icon-class-name: icon-lux-file-jsx-fill
+  icon-name: File  Jsx
+  icon-code: \efcd
+- icon-class-name: icon-lux-file-lock-fill
+  icon-name: File  Lock
+  icon-code: \efce
+- icon-class-name: icon-lux-file-minus-fill
+  icon-name: File  Minus
+  icon-code: \efcf
+- icon-class-name: icon-lux-file-pdf-fill
+  icon-name: File  Pdf
+  icon-code: \efd0
+- icon-class-name: icon-lux-file-plus-fill
+  icon-name: File  Plus
+  icon-code: \efd1
+- icon-class-name: icon-lux-file-png-fill
+  icon-name: File  Png
+  icon-code: \efd2
+- icon-class-name: icon-lux-file-ppt-fill
+  icon-name: File  Ppt
+  icon-code: \efd3
+- icon-class-name: icon-lux-file-rs-fill
+  icon-name: File  Rs
+  icon-code: \efd4
+- icon-class-name: icon-lux-files-fill
+  icon-name: Files
+  icon-code: \efd5
+- icon-class-name: icon-lux-file-search-fill
+  icon-name: File  Search
+  icon-code: \efd6
+- icon-class-name: icon-lux-file-sql-fill
+  icon-name: File  Sql
+  icon-code: \efd7
+- icon-class-name: icon-lux-file-svg-fill
+  icon-name: File  Svg
+  icon-code: \efd8
+- icon-class-name: icon-lux-file-text-fill
+  icon-name: File  Text
+  icon-code: \efd9
+- icon-class-name: icon-lux-file-ts-fill
+  icon-name: File  Ts
+  icon-code: \efda
+- icon-class-name: icon-lux-file-tsx-fill
+  icon-name: File  Tsx
+  icon-code: \efdb
+- icon-class-name: icon-lux-file-video-fill
+  icon-name: File  Video
+  icon-code: \efdc
+- icon-class-name: icon-lux-file-vue-fill
+  icon-name: File  Vue
+  icon-code: \efdd
+- icon-class-name: icon-lux-file-x-fill
+  icon-name: File X
+  icon-code: \efde
+- icon-class-name: icon-lux-file-xls-fill
+  icon-name: File  Xls
+  icon-code: \efdf
+- icon-class-name: icon-lux-file-zip-fill
+  icon-name: File  Zip
+  icon-code: \efe0
+- icon-class-name: icon-lux-film-reel-fill
+  icon-name: Film  Reel
+  icon-code: \efe1
+- icon-class-name: icon-lux-film-script-fill
+  icon-name: Film  Script
+  icon-code: \efe2
+- icon-class-name: icon-lux-film-slate-fill
+  icon-name: Film  Slate
+  icon-code: \efe3
+- icon-class-name: icon-lux-film-strip-fill
+  icon-name: Film  Strip
+  icon-code: \efe4
+- icon-class-name: icon-lux-fingerprint-fill
+  icon-name: Fingerprint
+  icon-code: \efe5
+- icon-class-name: icon-lux-fingerprint-simple-fill
+  icon-name: Fingerprint  Simple
+  icon-code: \efe6
+- icon-class-name: icon-lux-finn-the-human-fill
+  icon-name: Finn  The  Human
+  icon-code: \efe7
+- icon-class-name: icon-lux-fire-fill
+  icon-name: Fire
+  icon-code: \efe8
+- icon-class-name: icon-lux-fire-extinguisher-fill
+  icon-name: Fire  Extinguisher
+  icon-code: \efe9
+- icon-class-name: icon-lux-fire-simple-fill
+  icon-name: Fire  Simple
+  icon-code: \efea
+- icon-class-name: icon-lux-first-aid-fill
+  icon-name: First  Aid
+  icon-code: \efeb
+- icon-class-name: icon-lux-first-aid-kit-fill
+  icon-name: First  Aid  Kit
+  icon-code: \efec
+- icon-class-name: icon-lux-fish-fill
+  icon-name: Fish
+  icon-code: \efed
+- icon-class-name: icon-lux-fish-simple-fill
+  icon-name: Fish  Simple
+  icon-code: \efee
+- icon-class-name: icon-lux-flag-fill
+  icon-name: Flag
+  icon-code: \efef
+- icon-class-name: icon-lux-flag-banner-fill
+  icon-name: Flag  Banner
+  icon-code: \eff0
+- icon-class-name: icon-lux-flag-checkered-fill
+  icon-name: Flag  Checkered
+  icon-code: \eff1
+- icon-class-name: icon-lux-flag-pennant-fill
+  icon-name: Flag  Pennant
+  icon-code: \eff2
+- icon-class-name: icon-lux-flame-fill
+  icon-name: Flame
+  icon-code: \eff3
+- icon-class-name: icon-lux-flashlight-fill
+  icon-name: Flashlight
+  icon-code: \eff4
+- icon-class-name: icon-lux-flask-fill
+  icon-name: Flask
+  icon-code: \eff5
+- icon-class-name: icon-lux-floppy-disk-fill
+  icon-name: Floppy  Disk
+  icon-code: \eff6
+- icon-class-name: icon-lux-floppy-disk-back-fill
+  icon-name: Floppy  Disk  Back
+  icon-code: \eff7
+- icon-class-name: icon-lux-flow-arrow-fill
+  icon-name: Flow  Arrow
+  icon-code: \eff8
+- icon-class-name: icon-lux-flower-fill
+  icon-name: Flower
+  icon-code: \eff9
+- icon-class-name: icon-lux-flower-lotus-fill
+  icon-name: Flower  Lotus
+  icon-code: \effa
+- icon-class-name: icon-lux-flower-tulip-fill
+  icon-name: Flower  Tulip
+  icon-code: \effb
+- icon-class-name: icon-lux-flying-saucer-fill
+  icon-name: Flying  Saucer
+  icon-code: \effc
+- icon-class-name: icon-lux-folder-fill
+  icon-name: Folder
+  icon-code: \effd
+- icon-class-name: icon-lux-folder-dashed-fill
+  icon-name: Folder  Dashed
+  icon-code: \effe
+- icon-class-name: icon-lux-folder-lock-fill
+  icon-name: Folder  Lock
+  icon-code: \efff
+- icon-class-name: icon-lux-folder-minus-fill
+  icon-name: Folder  Minus
+  icon-code: \f000
+- icon-class-name: icon-lux-folder-notch-fill
+  icon-name: Folder  Notch
+  icon-code: \f001
+- icon-class-name: icon-lux-folder-notch-minus-fill
+  icon-name: Folder  Notch  Minus
+  icon-code: \f002
+- icon-class-name: icon-lux-folder-notch-open-fill
+  icon-name: Folder  Notch  Open
+  icon-code: \f003
+- icon-class-name: icon-lux-folder-notch-plus-fill
+  icon-name: Folder  Notch  Plus
+  icon-code: \f004
+- icon-class-name: icon-lux-folder-open-fill
+  icon-name: Folder  Open
+  icon-code: \f005
+- icon-class-name: icon-lux-folder-plus-fill
+  icon-name: Folder  Plus
+  icon-code: \f006
+- icon-class-name: icon-lux-folders-fill
+  icon-name: Folders
+  icon-code: \f007
+- icon-class-name: icon-lux-folder-simple-fill
+  icon-name: Folder  Simple
+  icon-code: \f008
+- icon-class-name: icon-lux-folder-simple-dashed-fill
+  icon-name: Folder  Simple  Dashed
+  icon-code: \f009
+- icon-class-name: icon-lux-folder-simple-lock-fill
+  icon-name: Folder  Simple  Lock
+  icon-code: \f00a
+- icon-class-name: icon-lux-folder-simple-minus-fill
+  icon-name: Folder  Simple  Minus
+  icon-code: \f00b
+- icon-class-name: icon-lux-folder-simple-plus-fill
+  icon-name: Folder  Simple  Plus
+  icon-code: \f00c
+- icon-class-name: icon-lux-folder-simple-star-fill
+  icon-name: Folder  Simple  Star
+  icon-code: \f00d
+- icon-class-name: icon-lux-folder-simple-user-fill
+  icon-name: Folder  Simple  User
+  icon-code: \f00e
+- icon-class-name: icon-lux-folder-star-fill
+  icon-name: Folder  Star
+  icon-code: \f00f
+- icon-class-name: icon-lux-folder-user-fill
+  icon-name: Folder  User
+  icon-code: \f010
+- icon-class-name: icon-lux-football-fill
+  icon-name: Football
+  icon-code: \f011
+- icon-class-name: icon-lux-footprints-fill
+  icon-name: Footprints
+  icon-code: \f012
+- icon-class-name: icon-lux-fork-knife-fill
+  icon-name: Fork  Knife
+  icon-code: \f013
+- icon-class-name: icon-lux-frame-corners-fill
+  icon-name: Frame  Corners
+  icon-code: \f014
+- icon-class-name: icon-lux-framer-logo-fill
+  icon-name: Framer  Logo
+  icon-code: \f015
+- icon-class-name: icon-lux-function-fill
+  icon-name: Function
+  icon-code: \f016
+- icon-class-name: icon-lux-funnel-fill
+  icon-name: Funnel
+  icon-code: \f017
+- icon-class-name: icon-lux-funnel-simple-fill
+  icon-name: Funnel  Simple
+  icon-code: \f018
+- icon-class-name: icon-lux-game-controller-fill
+  icon-name: Game  Controller
+  icon-code: \f019
+- icon-class-name: icon-lux-garage-fill
+  icon-name: Garage
+  icon-code: \f01a
+- icon-class-name: icon-lux-gas-can-fill
+  icon-name: Gas  Can
+  icon-code: \f01b
+- icon-class-name: icon-lux-gas-pump-fill
+  icon-name: Gas  Pump
+  icon-code: \f01c
+- icon-class-name: icon-lux-gauge-fill
+  icon-name: Gauge
+  icon-code: \f01d
+- icon-class-name: icon-lux-gavel-fill
+  icon-name: Gavel
+  icon-code: \f01e
+- icon-class-name: icon-lux-gear-fill
+  icon-name: Gear
+  icon-code: \f01f
+- icon-class-name: icon-lux-gear-fine-fill
+  icon-name: Gear  Fine
+  icon-code: \f020
+- icon-class-name: icon-lux-gear-six-fill
+  icon-name: Gear  Six
+  icon-code: \f021
+- icon-class-name: icon-lux-gender-female-fill
+  icon-name: Gender  Female
+  icon-code: \f022
+- icon-class-name: icon-lux-gender-intersex-fill
+  icon-name: Gender  Intersex
+  icon-code: \f023
+- icon-class-name: icon-lux-gender-male-fill
+  icon-name: Gender  Male
+  icon-code: \f024
+- icon-class-name: icon-lux-gender-neuter-fill
+  icon-name: Gender  Neuter
+  icon-code: \f025
+- icon-class-name: icon-lux-gender-nonbinary-fill
+  icon-name: Gender  Nonbinary
+  icon-code: \f026
+- icon-class-name: icon-lux-gender-transgender-fill
+  icon-name: Gender  Transgender
+  icon-code: \f027
+- icon-class-name: icon-lux-ghost-fill
+  icon-name: Ghost
+  icon-code: \f028
+- icon-class-name: icon-lux-gif-fill
+  icon-name: Gif
+  icon-code: \f029
+- icon-class-name: icon-lux-gift-fill
+  icon-name: Gift
+  icon-code: \f02a
+- icon-class-name: icon-lux-git-branch-fill
+  icon-name: Git  Branch
+  icon-code: \f02b
+- icon-class-name: icon-lux-git-commit-fill
+  icon-name: Git  Commit
+  icon-code: \f02c
+- icon-class-name: icon-lux-git-diff-fill
+  icon-name: Git  Diff
+  icon-code: \f02d
+- icon-class-name: icon-lux-git-fork-fill
+  icon-name: Git  Fork
+  icon-code: \f02e
+- icon-class-name: icon-lux-github-logo-fill
+  icon-name: Github  Logo
+  icon-code: \f02f
+- icon-class-name: icon-lux-gitlab-logo-fill
+  icon-name: Gitlab  Logo
+  icon-code: \f030
+- icon-class-name: icon-lux-gitlab-logo-simple-fill
+  icon-name: Gitlab  Logo  Simple
+  icon-code: \f031
+- icon-class-name: icon-lux-git-merge-fill
+  icon-name: Git  Merge
+  icon-code: \f032
+- icon-class-name: icon-lux-git-pull-request-fill
+  icon-name: Git  Pull  Request
+  icon-code: \f033
+- icon-class-name: icon-lux-globe-fill
+  icon-name: Globe
+  icon-code: \f034
+- icon-class-name: icon-lux-globe-hemisphere-east-fill
+  icon-name: Globe  Hemisphere  East
+  icon-code: \f035
+- icon-class-name: icon-lux-globe-hemisphere-west-fill
+  icon-name: Globe  Hemisphere  West
+  icon-code: \f036
+- icon-class-name: icon-lux-globe-simple-fill
+  icon-name: Globe  Simple
+  icon-code: \f037
+- icon-class-name: icon-lux-globe-stand-fill
+  icon-name: Globe  Stand
+  icon-code: \f038
+- icon-class-name: icon-lux-goggles-fill
+  icon-name: Goggles
+  icon-code: \f039
+- icon-class-name: icon-lux-goodreads-logo-fill
+  icon-name: Goodreads  Logo
+  icon-code: \f03a
+- icon-class-name: icon-lux-google-cardboard-logo-fill
+  icon-name: Google  Cardboard  Logo
+  icon-code: \f03b
+- icon-class-name: icon-lux-google-chrome-logo-fill
+  icon-name: Google  Chrome  Logo
+  icon-code: \f03c
+- icon-class-name: icon-lux-google-drive-logo-fill
+  icon-name: Google  Drive  Logo
+  icon-code: \f03d
+- icon-class-name: icon-lux-google-logo-fill
+  icon-name: Google  Logo
+  icon-code: \f03e
+- icon-class-name: icon-lux-google-photos-logo-fill
+  icon-name: Google  Photos  Logo
+  icon-code: \f03f
+- icon-class-name: icon-lux-google-play-logo-fill
+  icon-name: Google  Play  Logo
+  icon-code: \f040
+- icon-class-name: icon-lux-google-podcasts-logo-fill
+  icon-name: Google  Podcasts  Logo
+  icon-code: \f041
+- icon-class-name: icon-lux-gradient-fill
+  icon-name: Gradient
+  icon-code: \f042
+- icon-class-name: icon-lux-graduation-cap-fill
+  icon-name: Graduation  Cap
+  icon-code: \f043
+- icon-class-name: icon-lux-grains-fill
+  icon-name: Grains
+  icon-code: \f044
+- icon-class-name: icon-lux-grains-slash-fill
+  icon-name: Grains  Slash
+  icon-code: \f045
+- icon-class-name: icon-lux-graph-fill
+  icon-name: Graph
+  icon-code: \f046
+- icon-class-name: icon-lux-grid-four-fill
+  icon-name: Grid  Four
+  icon-code: \f047
+- icon-class-name: icon-lux-grid-nine-fill
+  icon-name: Grid  Nine
+  icon-code: \f048
+- icon-class-name: icon-lux-guitar-fill
+  icon-name: Guitar
+  icon-code: \f049
+- icon-class-name: icon-lux-hamburger-fill
+  icon-name: Hamburger
+  icon-code: \f04a
+- icon-class-name: icon-lux-hammer-fill
+  icon-name: Hammer
+  icon-code: \f04b
+- icon-class-name: icon-lux-hand-fill
+  icon-name: Hand
+  icon-code: \f04c
+- icon-class-name: icon-lux-handbag-fill
+  icon-name: Handbag
+  icon-code: \f04d
+- icon-class-name: icon-lux-handbag-simple-fill
+  icon-name: Handbag  Simple
+  icon-code: \f04e
+- icon-class-name: icon-lux-hand-coins-fill
+  icon-name: Hand  Coins
+  icon-code: \f04f
+- icon-class-name: icon-lux-hand-eye-fill
+  icon-name: Hand  Eye
+  icon-code: \f050
+- icon-class-name: icon-lux-hand-fist-fill
+  icon-name: Hand  Fist
+  icon-code: \f051
+- icon-class-name: icon-lux-hand-grabbing-fill
+  icon-name: Hand  Grabbing
+  icon-code: \f052
+- icon-class-name: icon-lux-hand-heart-fill
+  icon-name: Hand  Heart
+  icon-code: \f053
+- icon-class-name: icon-lux-hand-palm-fill
+  icon-name: Hand  Palm
+  icon-code: \f054
+- icon-class-name: icon-lux-hand-pointing-fill
+  icon-name: Hand  Pointing
+  icon-code: \f055
+- icon-class-name: icon-lux-hands-clapping-fill
+  icon-name: Hands  Clapping
+  icon-code: \f056
+- icon-class-name: icon-lux-handshake-fill
+  icon-name: Handshake
+  icon-code: \f057
+- icon-class-name: icon-lux-hand-soap-fill
+  icon-name: Hand  Soap
+  icon-code: \f058
+- icon-class-name: icon-lux-hands-praying-fill
+  icon-name: Hands  Praying
+  icon-code: \f059
+- icon-class-name: icon-lux-hand-swipe-left-fill
+  icon-name: Hand  Swipe  Left
+  icon-code: \f05a
+- icon-class-name: icon-lux-hand-swipe-right-fill
+  icon-name: Hand  Swipe  Right
+  icon-code: \f05b
+- icon-class-name: icon-lux-hand-tap-fill
+  icon-name: Hand  Tap
+  icon-code: \f05c
+- icon-class-name: icon-lux-hand-waving-fill
+  icon-name: Hand  Waving
+  icon-code: \f05d
+- icon-class-name: icon-lux-hard-drive-fill
+  icon-name: Hard  Drive
+  icon-code: \f05e
+- icon-class-name: icon-lux-hard-drives-fill
+  icon-name: Hard  Drives
+  icon-code: \f05f
+- icon-class-name: icon-lux-hash-fill
+  icon-name: Hash
+  icon-code: \f060
+- icon-class-name: icon-lux-hash-straight-fill
+  icon-name: Hash  Straight
+  icon-code: \f061
+- icon-class-name: icon-lux-headlights-fill
+  icon-name: Headlights
+  icon-code: \f062
+- icon-class-name: icon-lux-headphones-fill
+  icon-name: Headphones
+  icon-code: \f063
+- icon-class-name: icon-lux-headset-fill
+  icon-name: Headset
+  icon-code: \f064
+- icon-class-name: icon-lux-heart-fill
+  icon-name: Heart
+  icon-code: \f065
+- icon-class-name: icon-lux-heartbeat-fill
+  icon-name: Heartbeat
+  icon-code: \f066
+- icon-class-name: icon-lux-heart-break-fill
+  icon-name: Heart  Break
+  icon-code: \f067
+- icon-class-name: icon-lux-heart-half-fill
+  icon-name: Heart  Half
+  icon-code: \f068
+- icon-class-name: icon-lux-heart-straight-fill
+  icon-name: Heart  Straight
+  icon-code: \f069
+- icon-class-name: icon-lux-heart-straight-break-fill
+  icon-name: Heart  Straight  Break
+  icon-code: \f06a
+- icon-class-name: icon-lux-hexagon-fill
+  icon-name: Hexagon
+  icon-code: \f06b
+- icon-class-name: icon-lux-high-heel-fill
+  icon-name: High  Heel
+  icon-code: \f06c
+- icon-class-name: icon-lux-highlighter-circle-fill
+  icon-name: Highlighter  Circle
+  icon-code: \f06d
+- icon-class-name: icon-lux-hoodie-fill
+  icon-name: Hoodie
+  icon-code: \f06e
+- icon-class-name: icon-lux-horse-fill
+  icon-name: Horse
+  icon-code: \f06f
+- icon-class-name: icon-lux-hourglass-fill
+  icon-name: Hourglass
+  icon-code: \f070
+- icon-class-name: icon-lux-hourglass-high-fill
+  icon-name: Hourglass  High
+  icon-code: \f071
+- icon-class-name: icon-lux-hourglass-low-fill
+  icon-name: Hourglass  Low
+  icon-code: \f072
+- icon-class-name: icon-lux-hourglass-medium-fill
+  icon-name: Hourglass  Medium
+  icon-code: \f073
+- icon-class-name: icon-lux-hourglass-simple-fill
+  icon-name: Hourglass  Simple
+  icon-code: \f074
+- icon-class-name: icon-lux-hourglass-simple-high-fill
+  icon-name: Hourglass  Simple  High
+  icon-code: \f075
+- icon-class-name: icon-lux-hourglass-simple-low-fill
+  icon-name: Hourglass  Simple  Low
+  icon-code: \f076
+- icon-class-name: icon-lux-hourglass-simple-medium-fill
+  icon-name: Hourglass  Simple  Medium
+  icon-code: \f077
+- icon-class-name: icon-lux-house-fill
+  icon-name: House
+  icon-code: \f078
+- icon-class-name: icon-lux-house-line-fill
+  icon-name: House  Line
+  icon-code: \f079
+- icon-class-name: icon-lux-house-simple-fill
+  icon-name: House  Simple
+  icon-code: \f07a
+- icon-class-name: icon-lux-ice-cream-fill
+  icon-name: Ice  Cream
+  icon-code: \f07b
+- icon-class-name: icon-lux-identification-badge-fill
+  icon-name: Identification  Badge
+  icon-code: \f07c
+- icon-class-name: icon-lux-identification-card-fill
+  icon-name: Identification  Card
+  icon-code: \f07d
+- icon-class-name: icon-lux-image-fill
+  icon-name: Image
+  icon-code: \f07e
+- icon-class-name: icon-lux-images-fill
+  icon-name: Images
+  icon-code: \f07f
+- icon-class-name: icon-lux-image-square-fill
+  icon-name: Image  Square
+  icon-code: \f080
+- icon-class-name: icon-lux-images-square-fill
+  icon-name: Images  Square
+  icon-code: \f081
+- icon-class-name: icon-lux-infinity-fill
+  icon-name: Infinity
+  icon-code: \f082
+- icon-class-name: icon-lux-info-fill
+  icon-name: Info
+  icon-code: \f083
+- icon-class-name: icon-lux-instagram-logo-fill
+  icon-name: Instagram  Logo
+  icon-code: \f084
+- icon-class-name: icon-lux-intersect-fill
+  icon-name: Intersect
+  icon-code: \f085
+- icon-class-name: icon-lux-intersect-square-fill
+  icon-name: Intersect  Square
+  icon-code: \f086
+- icon-class-name: icon-lux-intersect-three-fill
+  icon-name: Intersect  Three
+  icon-code: \f087
+- icon-class-name: icon-lux-jeep-fill
+  icon-name: Jeep
+  icon-code: \f088
+- icon-class-name: icon-lux-kanban-fill
+  icon-name: Kanban
+  icon-code: \f089
+- icon-class-name: icon-lux-key-fill
+  icon-name: Key
+  icon-code: \f08a
+- icon-class-name: icon-lux-keyboard-fill
+  icon-name: Keyboard
+  icon-code: \f08b
+- icon-class-name: icon-lux-keyhole-fill
+  icon-name: Keyhole
+  icon-code: \f08c
+- icon-class-name: icon-lux-key-return-fill
+  icon-name: Key  Return
+  icon-code: \f08d
+- icon-class-name: icon-lux-knife-fill
+  icon-name: Knife
+  icon-code: \f08e
+- icon-class-name: icon-lux-ladder-fill
+  icon-name: Ladder
+  icon-code: \f08f
+- icon-class-name: icon-lux-ladder-simple-fill
+  icon-name: Ladder  Simple
+  icon-code: \f090
+- icon-class-name: icon-lux-lamp-fill
+  icon-name: Lamp
+  icon-code: \f091
+- icon-class-name: icon-lux-laptop-fill
+  icon-name: Laptop
+  icon-code: \f092
+- icon-class-name: icon-lux-layout-fill
+  icon-name: Layout
+  icon-code: \f093
+- icon-class-name: icon-lux-leaf-fill
+  icon-name: Leaf
+  icon-code: \f094
+- icon-class-name: icon-lux-lifebuoy-fill
+  icon-name: Lifebuoy
+  icon-code: \f095
+- icon-class-name: icon-lux-lightbulb-fill
+  icon-name: Lightbulb
+  icon-code: \f096
+- icon-class-name: icon-lux-lightbulb-filament-fill
+  icon-name: Lightbulb  Filament
+  icon-code: \f097
+- icon-class-name: icon-lux-lighthouse-fill
+  icon-name: Lighthouse
+  icon-code: \f098
+- icon-class-name: icon-lux-lightning-fill
+  icon-name: Lightning
+  icon-code: \f099
+- icon-class-name: icon-lux-lightning-a-fill
+  icon-name: Lightning A
+  icon-code: \f09a
+- icon-class-name: icon-lux-lightning-slash-fill
+  icon-name: Lightning  Slash
+  icon-code: \f09b
+- icon-class-name: icon-lux-line-segment-fill
+  icon-name: Line  Segment
+  icon-code: \f09c
+- icon-class-name: icon-lux-line-segments-fill
+  icon-name: Line  Segments
+  icon-code: \f09d
+- icon-class-name: icon-lux-link-fill
+  icon-name: Link
+  icon-code: \f09e
+- icon-class-name: icon-lux-link-break-fill
+  icon-name: Link  Break
+  icon-code: \f09f
+- icon-class-name: icon-lux-linkedin-logo-fill
+  icon-name: Linkedin  Logo
+  icon-code: \f0a0
+- icon-class-name: icon-lux-link-simple-fill
+  icon-name: Link  Simple
+  icon-code: \f0a1
+- icon-class-name: icon-lux-link-simple-break-fill
+  icon-name: Link  Simple  Break
+  icon-code: \f0a2
+- icon-class-name: icon-lux-link-simple-horizontal-fill
+  icon-name: Link  Simple  Horizontal
+  icon-code: \f0a3
+- icon-class-name: icon-lux-link-simple-horizontal-break-fill
+  icon-name: Link  Simple  Horizontal  Break
+  icon-code: \f0a4
+- icon-class-name: icon-lux-linux-logo-fill
+  icon-name: Linux  Logo
+  icon-code: \f0a5
+- icon-class-name: icon-lux-list-fill
+  icon-name: List
+  icon-code: \f0a6
+- icon-class-name: icon-lux-list-bullets-fill
+  icon-name: List  Bullets
+  icon-code: \f0a7
+- icon-class-name: icon-lux-list-checks-fill
+  icon-name: List  Checks
+  icon-code: \f0a8
+- icon-class-name: icon-lux-list-dashes-fill
+  icon-name: List  Dashes
+  icon-code: \f0a9
+- icon-class-name: icon-lux-list-magnifying-glass-fill
+  icon-name: List  Magnifying  Glass
+  icon-code: \f0aa
+- icon-class-name: icon-lux-list-numbers-fill
+  icon-name: List  Numbers
+  icon-code: \f0ab
+- icon-class-name: icon-lux-list-plus-fill
+  icon-name: List  Plus
+  icon-code: \f0ac
+- icon-class-name: icon-lux-lock-fill
+  icon-name: Lock
+  icon-code: \f0ad
+- icon-class-name: icon-lux-lockers-fill
+  icon-name: Lockers
+  icon-code: \f0ae
+- icon-class-name: icon-lux-lock-key-fill
+  icon-name: Lock  Key
+  icon-code: \f0af
+- icon-class-name: icon-lux-lock-key-open-fill
+  icon-name: Lock  Key  Open
+  icon-code: \f0b0
+- icon-class-name: icon-lux-lock-laminated-fill
+  icon-name: Lock  Laminated
+  icon-code: \f0b1
+- icon-class-name: icon-lux-lock-laminated-open-fill
+  icon-name: Lock  Laminated  Open
+  icon-code: \f0b2
+- icon-class-name: icon-lux-lock-open-fill
+  icon-name: Lock  Open
+  icon-code: \f0b3
+- icon-class-name: icon-lux-lock-simple-fill
+  icon-name: Lock  Simple
+  icon-code: \f0b4
+- icon-class-name: icon-lux-lock-simple-open-fill
+  icon-name: Lock  Simple  Open
+  icon-code: \f0b5
+- icon-class-name: icon-lux-magic-wand-fill
+  icon-name: Magic  Wand
+  icon-code: \f0b6
+- icon-class-name: icon-lux-magnet-fill
+  icon-name: Magnet
+  icon-code: \f0b7
+- icon-class-name: icon-lux-magnet-straight-fill
+  icon-name: Magnet  Straight
+  icon-code: \f0b8
+- icon-class-name: icon-lux-magnifying-glass-fill
+  icon-name: Magnifying  Glass
+  icon-code: \f0b9
+- icon-class-name: icon-lux-magnifying-glass-minus-fill
+  icon-name: Magnifying  Glass  Minus
+  icon-code: \f0ba
+- icon-class-name: icon-lux-magnifying-glass-plus-fill
+  icon-name: Magnifying  Glass  Plus
+  icon-code: \f0bb
+- icon-class-name: icon-lux-map-pin-fill
+  icon-name: Map  Pin
+  icon-code: \f0bc
+- icon-class-name: icon-lux-map-pin-line-fill
+  icon-name: Map  Pin  Line
+  icon-code: \f0bd
+- icon-class-name: icon-lux-map-trifold-fill
+  icon-name: Map  Trifold
+  icon-code: \f0be
+- icon-class-name: icon-lux-marker-circle-fill
+  icon-name: Marker  Circle
+  icon-code: \f0bf
+- icon-class-name: icon-lux-martini-fill
+  icon-name: Martini
+  icon-code: \f0c0
+- icon-class-name: icon-lux-mask-happy-fill
+  icon-name: Mask  Happy
+  icon-code: \f0c1
+- icon-class-name: icon-lux-mask-sad-fill
+  icon-name: Mask  Sad
+  icon-code: \f0c2
+- icon-class-name: icon-lux-math-operations-fill
+  icon-name: Math  Operations
+  icon-code: \f0c3
+- icon-class-name: icon-lux-medal-fill
+  icon-name: Medal
+  icon-code: \f0c4
+- icon-class-name: icon-lux-medal-military-fill
+  icon-name: Medal  Military
+  icon-code: \f0c5
+- icon-class-name: icon-lux-medium-logo-fill
+  icon-name: Medium  Logo
+  icon-code: \f0c6
+- icon-class-name: icon-lux-megaphone-fill
+  icon-name: Megaphone
+  icon-code: \f0c7
+- icon-class-name: icon-lux-megaphone-simple-fill
+  icon-name: Megaphone  Simple
+  icon-code: \f0c8
+- icon-class-name: icon-lux-messenger-logo-fill
+  icon-name: Messenger  Logo
+  icon-code: \f0c9
+- icon-class-name: icon-lux-meta-logo-fill
+  icon-name: Meta  Logo
+  icon-code: \f0ca
+- icon-class-name: icon-lux-metronome-fill
+  icon-name: Metronome
+  icon-code: \f0cb
+- icon-class-name: icon-lux-microphone-fill
+  icon-name: Microphone
+  icon-code: \f0cc
+- icon-class-name: icon-lux-microphone-slash-fill
+  icon-name: Microphone  Slash
+  icon-code: \f0cd
+- icon-class-name: icon-lux-microphone-stage-fill
+  icon-name: Microphone  Stage
+  icon-code: \f0ce
+- icon-class-name: icon-lux-microsoft-excel-logo-fill
+  icon-name: Microsoft  Excel  Logo
+  icon-code: \f0cf
+- icon-class-name: icon-lux-microsoft-outlook-logo-fill
+  icon-name: Microsoft  Outlook  Logo
+  icon-code: \f0d0
+- icon-class-name: icon-lux-microsoft-powerpoint-logo-fill
+  icon-name: Microsoft  Powerpoint  Logo
+  icon-code: \f0d1
+- icon-class-name: icon-lux-microsoft-teams-logo-fill
+  icon-name: Microsoft  Teams  Logo
+  icon-code: \f0d2
+- icon-class-name: icon-lux-microsoft-word-logo-fill
+  icon-name: Microsoft  Word  Logo
+  icon-code: \f0d3
+- icon-class-name: icon-lux-minus-fill
+  icon-name: Minus
+  icon-code: \f0d4
+- icon-class-name: icon-lux-minus-circle-fill
+  icon-name: Minus  Circle
+  icon-code: \f0d5
+- icon-class-name: icon-lux-minus-square-fill
+  icon-name: Minus  Square
+  icon-code: \f0d6
+- icon-class-name: icon-lux-money-fill
+  icon-name: Money
+  icon-code: \f0d7
+- icon-class-name: icon-lux-monitor-fill
+  icon-name: Monitor
+  icon-code: \f0d8
+- icon-class-name: icon-lux-monitor-play-fill
+  icon-name: Monitor  Play
+  icon-code: \f0d9
+- icon-class-name: icon-lux-moon-fill
+  icon-name: Moon
+  icon-code: \f0da
+- icon-class-name: icon-lux-moon-stars-fill
+  icon-name: Moon  Stars
+  icon-code: \f0db
+- icon-class-name: icon-lux-moped-fill
+  icon-name: Moped
+  icon-code: \f0dc
+- icon-class-name: icon-lux-moped-front-fill
+  icon-name: Moped  Front
+  icon-code: \f0dd
+- icon-class-name: icon-lux-mosque-fill
+  icon-name: Mosque
+  icon-code: \f0de
+- icon-class-name: icon-lux-motorcycle-fill
+  icon-name: Motorcycle
+  icon-code: \f0df
+- icon-class-name: icon-lux-mountains-fill
+  icon-name: Mountains
+  icon-code: \f0e0
+- icon-class-name: icon-lux-mouse-fill
+  icon-name: Mouse
+  icon-code: \f0e1
+- icon-class-name: icon-lux-mouse-simple-fill
+  icon-name: Mouse  Simple
+  icon-code: \f0e2
+- icon-class-name: icon-lux-music-note-fill
+  icon-name: Music  Note
+  icon-code: \f0e3
+- icon-class-name: icon-lux-music-notes-fill
+  icon-name: Music  Notes
+  icon-code: \f0e4
+- icon-class-name: icon-lux-music-note-simple-fill
+  icon-name: Music  Note  Simple
+  icon-code: \f0e5
+- icon-class-name: icon-lux-music-notes-plus-fill
+  icon-name: Music  Notes  Plus
+  icon-code: \f0e6
+- icon-class-name: icon-lux-music-notes-simple-fill
+  icon-name: Music  Notes  Simple
+  icon-code: \f0e7
+- icon-class-name: icon-lux-navigation-arrow-fill
+  icon-name: Navigation  Arrow
+  icon-code: \f0e8
+- icon-class-name: icon-lux-needle-fill
+  icon-name: Needle
+  icon-code: \f0e9
+- icon-class-name: icon-lux-newspaper-fill
+  icon-name: Newspaper
+  icon-code: \f0ea
+- icon-class-name: icon-lux-newspaper-clipping-fill
+  icon-name: Newspaper  Clipping
+  icon-code: \f0eb
+- icon-class-name: icon-lux-notches-fill
+  icon-name: Notches
+  icon-code: \f0ec
+- icon-class-name: icon-lux-note-fill
+  icon-name: Note
+  icon-code: \f0ed
+- icon-class-name: icon-lux-note-blank-fill
+  icon-name: Note  Blank
+  icon-code: \f0ee
+- icon-class-name: icon-lux-notebook-fill
+  icon-name: Notebook
+  icon-code: \f0ef
+- icon-class-name: icon-lux-notepad-fill
+  icon-name: Notepad
+  icon-code: \f0f0
+- icon-class-name: icon-lux-note-pencil-fill
+  icon-name: Note  Pencil
+  icon-code: \f0f1
+  is-primary: true
+- icon-class-name: icon-lux-notification-fill
+  icon-name: Notification
+  icon-code: \f0f2
+- icon-class-name: icon-lux-notion-logo-fill
+  icon-name: Notion  Logo
+  icon-code: \f0f3
+- icon-class-name: icon-lux-number-circle-eight-fill
+  icon-name: Number  Circle  Eight
+  icon-code: \f0f4
+- icon-class-name: icon-lux-number-circle-five-fill
+  icon-name: Number  Circle  Five
+  icon-code: \f0f5
+- icon-class-name: icon-lux-number-circle-four-fill
+  icon-name: Number  Circle  Four
+  icon-code: \f0f6
+- icon-class-name: icon-lux-number-circle-nine-fill
+  icon-name: Number  Circle  Nine
+  icon-code: \f0f7
+- icon-class-name: icon-lux-number-circle-one-fill
+  icon-name: Number  Circle  One
+  icon-code: \f0f8
+- icon-class-name: icon-lux-number-circle-seven-fill
+  icon-name: Number  Circle  Seven
+  icon-code: \f0f9
+- icon-class-name: icon-lux-number-circle-six-fill
+  icon-name: Number  Circle  Six
+  icon-code: \f0fa
+- icon-class-name: icon-lux-number-circle-three-fill
+  icon-name: Number  Circle  Three
+  icon-code: \f0fb
+- icon-class-name: icon-lux-number-circle-two-fill
+  icon-name: Number  Circle  Two
+  icon-code: \f0fc
+- icon-class-name: icon-lux-number-circle-zero-fill
+  icon-name: Number  Circle  Zero
+  icon-code: \f0fd
+- icon-class-name: icon-lux-number-eight-fill
+  icon-name: Number  Eight
+  icon-code: \f0fe
+- icon-class-name: icon-lux-number-five-fill
+  icon-name: Number  Five
+  icon-code: \f0ff
+- icon-class-name: icon-lux-number-four-fill
+  icon-name: Number  Four
+  icon-code: \f100
+- icon-class-name: icon-lux-number-nine-fill
+  icon-name: Number  Nine
+  icon-code: \f101
+- icon-class-name: icon-lux-number-one-fill
+  icon-name: Number  One
+  icon-code: \f102
+- icon-class-name: icon-lux-number-seven-fill
+  icon-name: Number  Seven
+  icon-code: \f103
+- icon-class-name: icon-lux-number-six-fill
+  icon-name: Number  Six
+  icon-code: \f104
+- icon-class-name: icon-lux-number-square-eight-fill
+  icon-name: Number  Square  Eight
+  icon-code: \f105
+- icon-class-name: icon-lux-number-square-five-fill
+  icon-name: Number  Square  Five
+  icon-code: \f106
+- icon-class-name: icon-lux-number-square-four-fill
+  icon-name: Number  Square  Four
+  icon-code: \f107
+- icon-class-name: icon-lux-number-square-nine-fill
+  icon-name: Number  Square  Nine
+  icon-code: \f108
+- icon-class-name: icon-lux-number-square-one-fill
+  icon-name: Number  Square  One
+  icon-code: \f109
+- icon-class-name: icon-lux-number-square-seven-fill
+  icon-name: Number  Square  Seven
+  icon-code: \f10a
+- icon-class-name: icon-lux-number-square-six-fill
+  icon-name: Number  Square  Six
+  icon-code: \f10b
+- icon-class-name: icon-lux-number-square-three-fill
+  icon-name: Number  Square  Three
+  icon-code: \f10c
+- icon-class-name: icon-lux-number-square-two-fill
+  icon-name: Number  Square  Two
+  icon-code: \f10d
+- icon-class-name: icon-lux-number-square-zero-fill
+  icon-name: Number  Square  Zero
+  icon-code: \f10e
+- icon-class-name: icon-lux-number-three-fill
+  icon-name: Number  Three
+  icon-code: \f10f
+- icon-class-name: icon-lux-number-two-fill
+  icon-name: Number  Two
+  icon-code: \f110
+- icon-class-name: icon-lux-number-zero-fill
+  icon-name: Number  Zero
+  icon-code: \f111
+- icon-class-name: icon-lux-nut-fill
+  icon-name: Nut
+  icon-code: \f112
+- icon-class-name: icon-lux-ny-times-logo-fill
+  icon-name: Ny  Times  Logo
+  icon-code: \f113
+- icon-class-name: icon-lux-octagon-fill
+  icon-name: Octagon
+  icon-code: \f114
+- icon-class-name: icon-lux-office-chair-fill
+  icon-name: Office  Chair
+  icon-code: \f115
+- icon-class-name: icon-lux-option-fill
+  icon-name: Option
+  icon-code: \f116
+- icon-class-name: icon-lux-orange-slice-fill
+  icon-name: Orange  Slice
+  icon-code: \f117
+- icon-class-name: icon-lux-package-fill
+  icon-name: Package
+  icon-code: \f118
+- icon-class-name: icon-lux-paint-brush-fill
+  icon-name: Paint  Brush
+  icon-code: \f119
+- icon-class-name: icon-lux-paint-brush-broad-fill
+  icon-name: Paint  Brush  Broad
+  icon-code: \f11a
+- icon-class-name: icon-lux-paint-brush-household-fill
+  icon-name: Paint  Brush  Household
+  icon-code: \f11b
+- icon-class-name: icon-lux-paint-bucket-fill
+  icon-name: Paint  Bucket
+  icon-code: \f11c
+- icon-class-name: icon-lux-paint-roller-fill
+  icon-name: Paint  Roller
+  icon-code: \f11d
+- icon-class-name: icon-lux-palette-fill
+  icon-name: Palette
+  icon-code: \f11e
+- icon-class-name: icon-lux-pants-fill
+  icon-name: Pants
+  icon-code: \f11f
+- icon-class-name: icon-lux-paperclip-fill
+  icon-name: Paperclip
+  icon-code: \f120
+- icon-class-name: icon-lux-paperclip-horizontal-fill
+  icon-name: Paperclip  Horizontal
+  icon-code: \f121
+- icon-class-name: icon-lux-paper-plane-fill
+  icon-name: Paper  Plane
+  icon-code: \f122
+- icon-class-name: icon-lux-paper-plane-right-fill
+  icon-name: Paper  Plane  Right
+  icon-code: \f123
+- icon-class-name: icon-lux-paper-plane-tilt-fill
+  icon-name: Paper  Plane  Tilt
+  icon-code: \f124
+- icon-class-name: icon-lux-parachute-fill
+  icon-name: Parachute
+  icon-code: \f125
+- icon-class-name: icon-lux-paragraph-fill
+  icon-name: Paragraph
+  icon-code: \f126
+- icon-class-name: icon-lux-parallelogram-fill
+  icon-name: Parallelogram
+  icon-code: \f127
+- icon-class-name: icon-lux-park-fill
+  icon-name: Park
+  icon-code: \f128
+- icon-class-name: icon-lux-password-fill
+  icon-name: Password
+  icon-code: \f129
+- icon-class-name: icon-lux-path-fill
+  icon-name: Path
+  icon-code: \f12a
+- icon-class-name: icon-lux-patreon-logo-fill
+  icon-name: Patreon  Logo
+  icon-code: \f12b
+- icon-class-name: icon-lux-pause-fill
+  icon-name: Pause
+  icon-code: \f12c
+- icon-class-name: icon-lux-pause-circle-fill
+  icon-name: Pause  Circle
+  icon-code: \f12d
+- icon-class-name: icon-lux-paw-print-fill
+  icon-name: Paw  Print
+  icon-code: \f12e
+- icon-class-name: icon-lux-paypal-logo-fill
+  icon-name: Paypal  Logo
+  icon-code: \f12f
+- icon-class-name: icon-lux-peace-fill
+  icon-name: Peace
+  icon-code: \f130
+- icon-class-name: icon-lux-pen-fill
+  icon-name: Pen
+  icon-code: \f131
+- icon-class-name: icon-lux-pencil-fill
+  icon-name: Pencil
+  icon-code: \f132
+- icon-class-name: icon-lux-pencil-circle-fill
+  icon-name: Pencil  Circle
+  icon-code: \f133
+- icon-class-name: icon-lux-pencil-line-fill
+  icon-name: Pencil  Line
+  icon-code: \f134
+- icon-class-name: icon-lux-pencil-simple-fill
+  icon-name: Pencil  Simple
+  icon-code: \f135
+- icon-class-name: icon-lux-pencil-simple-line-fill
+  icon-name: Pencil  Simple  Line
+  icon-code: \f136
+- icon-class-name: icon-lux-pencil-simple-slash-fill
+  icon-name: Pencil  Simple  Slash
+  icon-code: \f137
+- icon-class-name: icon-lux-pencil-slash-fill
+  icon-name: Pencil  Slash
+  icon-code: \f138
+- icon-class-name: icon-lux-pen-nib-fill
+  icon-name: Pen  Nib
+  icon-code: \f139
+- icon-class-name: icon-lux-pen-nib-straight-fill
+  icon-name: Pen  Nib  Straight
+  icon-code: \f13a
+- icon-class-name: icon-lux-pentagram-fill
+  icon-name: Pentagram
+  icon-code: \f13b
+- icon-class-name: icon-lux-pepper-fill
+  icon-name: Pepper
+  icon-code: \f13c
+- icon-class-name: icon-lux-percent-fill
+  icon-name: Percent
+  icon-code: \f13d
+- icon-class-name: icon-lux-person-fill
+  icon-name: Person
+  icon-code: \f13e
+- icon-class-name: icon-lux-person-arms-spread-fill
+  icon-name: Person  Arms  Spread
+  icon-code: \f13f
+- icon-class-name: icon-lux-person-simple-fill
+  icon-name: Person  Simple
+  icon-code: \f140
+- icon-class-name: icon-lux-person-simple-bike-fill
+  icon-name: Person  Simple  Bike
+  icon-code: \f141
+- icon-class-name: icon-lux-person-simple-run-fill
+  icon-name: Person  Simple  Run
+  icon-code: \f142
+- icon-class-name: icon-lux-person-simple-throw-fill
+  icon-name: Person  Simple  Throw
+  icon-code: \f143
+- icon-class-name: icon-lux-person-simple-walk-fill
+  icon-name: Person  Simple  Walk
+  icon-code: \f144
+- icon-class-name: icon-lux-perspective-fill
+  icon-name: Perspective
+  icon-code: \f145
+- icon-class-name: icon-lux-phone-fill
+  icon-name: Phone
+  icon-code: \f146
+- icon-class-name: icon-lux-phone-call-fill
+  icon-name: Phone  Call
+  icon-code: \f147
+- icon-class-name: icon-lux-phone-disconnect-fill
+  icon-name: Phone  Disconnect
+  icon-code: \f148
+- icon-class-name: icon-lux-phone-incoming-fill
+  icon-name: Phone  Incoming
+  icon-code: \f149
+- icon-class-name: icon-lux-phone-outgoing-fill
+  icon-name: Phone  Outgoing
+  icon-code: \f14a
+- icon-class-name: icon-lux-phone-plus-fill
+  icon-name: Phone  Plus
+  icon-code: \f14b
+- icon-class-name: icon-lux-phone-slash-fill
+  icon-name: Phone  Slash
+  icon-code: \f14c
+- icon-class-name: icon-lux-phone-x-fill
+  icon-name: Phone X
+  icon-code: \f14d
+- icon-class-name: icon-lux-phosphor-logo-fill
+  icon-name: Phosphor  Logo
+  icon-code: \f14e
+- icon-class-name: icon-lux-pi-fill
+  icon-name: Pi
+  icon-code: \f14f
+- icon-class-name: icon-lux-piano-keys-fill
+  icon-name: Piano  Keys
+  icon-code: \f150
+- icon-class-name: icon-lux-picture-in-picture-fill
+  icon-name: Picture  In  Picture
+  icon-code: \f151
+- icon-class-name: icon-lux-piggy-bank-fill
+  icon-name: Piggy  Bank
+  icon-code: \f152
+- icon-class-name: icon-lux-pill-fill
+  icon-name: Pill
+  icon-code: \f153
+- icon-class-name: icon-lux-pinterest-logo-fill
+  icon-name: Pinterest  Logo
+  icon-code: \f154
+- icon-class-name: icon-lux-pinwheel-fill
+  icon-name: Pinwheel
+  icon-code: \f155
+- icon-class-name: icon-lux-pizza-fill
+  icon-name: Pizza
+  icon-code: \f156
+- icon-class-name: icon-lux-placeholder-fill
+  icon-name: Placeholder
+  icon-code: \f157
+- icon-class-name: icon-lux-planet-fill
+  icon-name: Planet
+  icon-code: \f158
+- icon-class-name: icon-lux-plant-fill
+  icon-name: Plant
+  icon-code: \f159
+- icon-class-name: icon-lux-play-fill
+  icon-name: Play
+  icon-code: \f15a
+- icon-class-name: icon-lux-play-circle-fill
+  icon-name: Play  Circle
+  icon-code: \f15b
+- icon-class-name: icon-lux-playlist-fill
+  icon-name: Playlist
+  icon-code: \f15c
+- icon-class-name: icon-lux-play-pause-fill
+  icon-name: Play  Pause
+  icon-code: \f15d
+- icon-class-name: icon-lux-plug-fill
+  icon-name: Plug
+  icon-code: \f15e
+- icon-class-name: icon-lux-plug-charging-fill
+  icon-name: Plug  Charging
+  icon-code: \f15f
+- icon-class-name: icon-lux-plugs-fill
+  icon-name: Plugs
+  icon-code: \f160
+- icon-class-name: icon-lux-plugs-connected-fill
+  icon-name: Plugs  Connected
+  icon-code: \f161
+- icon-class-name: icon-lux-plus-fill
+  icon-name: Plus
+  icon-code: \f162
+- icon-class-name: icon-lux-plus-circle-fill
+  icon-name: Plus  Circle
+  icon-code: \f163
+- icon-class-name: icon-lux-plus-minus-fill
+  icon-name: Plus  Minus
+  icon-code: \f164
+- icon-class-name: icon-lux-plus-square-fill
+  icon-name: Plus  Square
+  icon-code: \f165
+- icon-class-name: icon-lux-poker-chip-fill
+  icon-name: Poker  Chip
+  icon-code: \f166
+- icon-class-name: icon-lux-police-car-fill
+  icon-name: Police  Car
+  icon-code: \f167
+- icon-class-name: icon-lux-polygon-fill
+  icon-name: Polygon
+  icon-code: \f168
+- icon-class-name: icon-lux-popcorn-fill
+  icon-name: Popcorn
+  icon-code: \f169
+- icon-class-name: icon-lux-potted-plant-fill
+  icon-name: Potted  Plant
+  icon-code: \f16a
+- icon-class-name: icon-lux-power-fill
+  icon-name: Power
+  icon-code: \f16b
+- icon-class-name: icon-lux-prescription-fill
+  icon-name: Prescription
+  icon-code: \f16c
+- icon-class-name: icon-lux-presentation-fill
+  icon-name: Presentation
+  icon-code: \f16d
+- icon-class-name: icon-lux-presentation-chart-fill
+  icon-name: Presentation  Chart
+  icon-code: \f16e
+- icon-class-name: icon-lux-printer-fill
+  icon-name: Printer
+  icon-code: \f16f
+- icon-class-name: icon-lux-prohibit-fill
+  icon-name: Prohibit
+  icon-code: \f170
+- icon-class-name: icon-lux-prohibit-inset-fill
+  icon-name: Prohibit  Inset
+  icon-code: \f171
+- icon-class-name: icon-lux-projector-screen-fill
+  icon-name: Projector  Screen
+  icon-code: \f172
+- icon-class-name: icon-lux-projector-screen-chart-fill
+  icon-name: Projector  Screen  Chart
+  icon-code: \f173
+- icon-class-name: icon-lux-pulse-fill
+  icon-name: Pulse
+  icon-code: \f174
+- icon-class-name: icon-lux-push-pin-fill
+  icon-name: Push  Pin
+  icon-code: \f175
+- icon-class-name: icon-lux-push-pin-simple-fill
+  icon-name: Push  Pin  Simple
+  icon-code: \f176
+- icon-class-name: icon-lux-push-pin-simple-slash-fill
+  icon-name: Push  Pin  Simple  Slash
+  icon-code: \f177
+- icon-class-name: icon-lux-push-pin-slash-fill
+  icon-name: Push  Pin  Slash
+  icon-code: \f178
+- icon-class-name: icon-lux-puzzle-piece-fill
+  icon-name: Puzzle  Piece
+  icon-code: \f179
+- icon-class-name: icon-lux-qr-code-fill
+  icon-name: Qr  Code
+  icon-code: \f17a
+- icon-class-name: icon-lux-question-fill
+  icon-name: Question
+  icon-code: \f17b
+- icon-class-name: icon-lux-queue-fill
+  icon-name: Queue
+  icon-code: \f17c
+- icon-class-name: icon-lux-quotes-fill
+  icon-name: Quotes
+  icon-code: \f17d
+- icon-class-name: icon-lux-radical-fill
+  icon-name: Radical
+  icon-code: \f17e
+- icon-class-name: icon-lux-radio-fill
+  icon-name: Radio
+  icon-code: \f17f
+- icon-class-name: icon-lux-radioactive-fill
+  icon-name: Radioactive
+  icon-code: \f180
+- icon-class-name: icon-lux-radio-button-fill
+  icon-name: Radio  Button
+  icon-code: \f181
+- icon-class-name: icon-lux-rainbow-fill
+  icon-name: Rainbow
+  icon-code: \f182
+- icon-class-name: icon-lux-rainbow-cloud-fill
+  icon-name: Rainbow  Cloud
+  icon-code: \f183
+- icon-class-name: icon-lux-read-cv-logo-fill
+  icon-name: Read  Cv  Logo
+  icon-code: \f184
+- icon-class-name: icon-lux-receipt-fill
+  icon-name: Receipt
+  icon-code: \f185
+- icon-class-name: icon-lux-receipt-x-fill
+  icon-name: Receipt X
+  icon-code: \f186
+- icon-class-name: icon-lux-record-fill
+  icon-name: Record
+  icon-code: \f187
+- icon-class-name: icon-lux-rectangle-fill
+  icon-name: Rectangle
+  icon-code: \f188
+- icon-class-name: icon-lux-recycle-fill
+  icon-name: Recycle
+  icon-code: \f189
+- icon-class-name: icon-lux-reddit-logo-fill
+  icon-name: Reddit  Logo
+  icon-code: \f18a
+- icon-class-name: icon-lux-repeat-fill
+  icon-name: Repeat
+  icon-code: \f18b
+- icon-class-name: icon-lux-repeat-once-fill
+  icon-name: Repeat  Once
+  icon-code: \f18c
+- icon-class-name: icon-lux-rewind-fill
+  icon-name: Rewind
+  icon-code: \f18d
+- icon-class-name: icon-lux-rewind-circle-fill
+  icon-name: Rewind  Circle
+  icon-code: \f18e
+- icon-class-name: icon-lux-road-horizon-fill
+  icon-name: Road  Horizon
+  icon-code: \f18f
+- icon-class-name: icon-lux-robot-fill
+  icon-name: Robot
+  icon-code: \f190
+- icon-class-name: icon-lux-rocket-fill
+  icon-name: Rocket
+  icon-code: \f191
+- icon-class-name: icon-lux-rocket-launch-fill
+  icon-name: Rocket  Launch
+  icon-code: \f192
+- icon-class-name: icon-lux-rows-fill
+  icon-name: Rows
+  icon-code: \f193
+- icon-class-name: icon-lux-rss-fill
+  icon-name: Rss
+  icon-code: \f194
+- icon-class-name: icon-lux-rss-simple-fill
+  icon-name: Rss  Simple
+  icon-code: \f195
+- icon-class-name: icon-lux-rug-fill
+  icon-name: Rug
+  icon-code: \f196
+- icon-class-name: icon-lux-ruler-fill
+  icon-name: Ruler
+  icon-code: \f197
+- icon-class-name: icon-lux-scales-fill
+  icon-name: Scales
+  icon-code: \f198
+- icon-class-name: icon-lux-scan-fill
+  icon-name: Scan
+  icon-code: \f199
+- icon-class-name: icon-lux-scissors-fill
+  icon-name: Scissors
+  icon-code: \f19a
+- icon-class-name: icon-lux-scooter-fill
+  icon-name: Scooter
+  icon-code: \f19b
+- icon-class-name: icon-lux-screencast-fill
+  icon-name: Screencast
+  icon-code: \f19c
+- icon-class-name: icon-lux-scribble-loop-fill
+  icon-name: Scribble  Loop
+  icon-code: \f19d
+- icon-class-name: icon-lux-scroll-fill
+  icon-name: Scroll
+  icon-code: \f19e
+- icon-class-name: icon-lux-seal-fill
+  icon-name: Seal
+  icon-code: \f19f
+- icon-class-name: icon-lux-seal-check-fill
+  icon-name: Seal  Check
+  icon-code: \f1a0
+- icon-class-name: icon-lux-seal-question-fill
+  icon-name: Seal  Question
+  icon-code: \f1a1
+- icon-class-name: icon-lux-seal-warning-fill
+  icon-name: Seal  Warning
+  icon-code: \f1a2
+- icon-class-name: icon-lux-selection-fill
+  icon-name: Selection
+  icon-code: \f1a3
+- icon-class-name: icon-lux-selection-all-fill
+  icon-name: Selection  All
+  icon-code: \f1a4
+- icon-class-name: icon-lux-selection-background-fill
+  icon-name: Selection  Background
+  icon-code: \f1a5
+- icon-class-name: icon-lux-selection-foreground-fill
+  icon-name: Selection  Foreground
+  icon-code: \f1a6
+- icon-class-name: icon-lux-selection-inverse-fill
+  icon-name: Selection  Inverse
+  icon-code: \f1a7
+- icon-class-name: icon-lux-selection-plus-fill
+  icon-name: Selection  Plus
+  icon-code: \f1a8
+- icon-class-name: icon-lux-selection-slash-fill
+  icon-name: Selection  Slash
+  icon-code: \f1a9
+- icon-class-name: icon-lux-shapes-fill
+  icon-name: Shapes
+  icon-code: \f1aa
+- icon-class-name: icon-lux-share-fill
+  icon-name: Share
+  icon-code: \f1ab
+- icon-class-name: icon-lux-share-fat-fill
+  icon-name: Share  Fat
+  icon-code: \f1ac
+- icon-class-name: icon-lux-share-network-fill
+  icon-name: Share  Network
+  icon-code: \f1ad
+- icon-class-name: icon-lux-shield-fill
+  icon-name: Shield
+  icon-code: \f1ae
+- icon-class-name: icon-lux-shield-check-fill
+  icon-name: Shield  Check
+  icon-code: \f1af
+- icon-class-name: icon-lux-shield-checkered-fill
+  icon-name: Shield  Checkered
+  icon-code: \f1b0
+- icon-class-name: icon-lux-shield-chevron-fill
+  icon-name: Shield  Chevron
+  icon-code: \f1b1
+- icon-class-name: icon-lux-shield-plus-fill
+  icon-name: Shield  Plus
+  icon-code: \f1b2
+- icon-class-name: icon-lux-shield-slash-fill
+  icon-name: Shield  Slash
+  icon-code: \f1b3
+- icon-class-name: icon-lux-shield-star-fill
+  icon-name: Shield  Star
+  icon-code: \f1b4
+- icon-class-name: icon-lux-shield-warning-fill
+  icon-name: Shield  Warning
+  icon-code: \f1b5
+- icon-class-name: icon-lux-shirt-folded-fill
+  icon-name: Shirt  Folded
+  icon-code: \f1b6
+- icon-class-name: icon-lux-shooting-star-fill
+  icon-name: Shooting  Star
+  icon-code: \f1b7
+- icon-class-name: icon-lux-shopping-bag-fill
+  icon-name: Shopping  Bag
+  icon-code: \f1b8
+- icon-class-name: icon-lux-shopping-bag-open-fill
+  icon-name: Shopping  Bag  Open
+  icon-code: \f1b9
+- icon-class-name: icon-lux-shopping-cart-fill
+  icon-name: Shopping  Cart
+  icon-code: \f1ba
+- icon-class-name: icon-lux-shopping-cart-simple-fill
+  icon-name: Shopping  Cart  Simple
+  icon-code: \f1bb
+- icon-class-name: icon-lux-shower-fill
+  icon-name: Shower
+  icon-code: \f1bc
+- icon-class-name: icon-lux-shrimp-fill
+  icon-name: Shrimp
+  icon-code: \f1bd
+- icon-class-name: icon-lux-shuffle-fill
+  icon-name: Shuffle
+  icon-code: \f1be
+- icon-class-name: icon-lux-shuffle-angular-fill
+  icon-name: Shuffle  Angular
+  icon-code: \f1bf
+- icon-class-name: icon-lux-shuffle-simple-fill
+  icon-name: Shuffle  Simple
+  icon-code: \f1c0
+- icon-class-name: icon-lux-sidebar-fill
+  icon-name: Sidebar
+  icon-code: \f1c1
+- icon-class-name: icon-lux-sidebar-simple-fill
+  icon-name: Sidebar  Simple
+  icon-code: \f1c2
+- icon-class-name: icon-lux-sigma-fill
+  icon-name: Sigma
+  icon-code: \f1c3
+- icon-class-name: icon-lux-signature-fill
+  icon-name: Signature
+  icon-code: \f1c4
+- icon-class-name: icon-lux-sign-in-fill
+  icon-name: Sign  In
+  icon-code: \f1c5
+- icon-class-name: icon-lux-sign-out-fill
+  icon-name: Sign  Out
+  icon-code: \f1c6
+- icon-class-name: icon-lux-signpost-fill
+  icon-name: Signpost
+  icon-code: \f1c7
+- icon-class-name: icon-lux-sim-card-fill
+  icon-name: Sim  Card
+  icon-code: \f1c8
+- icon-class-name: icon-lux-siren-fill
+  icon-name: Siren
+  icon-code: \f1c9
+- icon-class-name: icon-lux-sketch-logo-fill
+  icon-name: Sketch  Logo
+  icon-code: \f1ca
+- icon-class-name: icon-lux-skip-back-fill
+  icon-name: Skip  Back
+  icon-code: \f1cb
+- icon-class-name: icon-lux-skip-back-circle-fill
+  icon-name: Skip  Back  Circle
+  icon-code: \f1cc
+- icon-class-name: icon-lux-skip-forward-fill
+  icon-name: Skip  Forward
+  icon-code: \f1cd
+- icon-class-name: icon-lux-skip-forward-circle-fill
+  icon-name: Skip  Forward  Circle
+  icon-code: \f1ce
+- icon-class-name: icon-lux-skull-fill
+  icon-name: Skull
+  icon-code: \f1cf
+- icon-class-name: icon-lux-slack-logo-fill
+  icon-name: Slack  Logo
+  icon-code: \f1d0
+- icon-class-name: icon-lux-sliders-fill
+  icon-name: Sliders
+  icon-code: \f1d1
+- icon-class-name: icon-lux-sliders-horizontal-fill
+  icon-name: Sliders  Horizontal
+  icon-code: \f1d2
+- icon-class-name: icon-lux-slideshow-fill
+  icon-name: Slideshow
+  icon-code: \f1d3
+- icon-class-name: icon-lux-smiley-fill
+  icon-name: Smiley
+  icon-code: \f1d4
+- icon-class-name: icon-lux-smiley-angry-fill
+  icon-name: Smiley  Angry
+  icon-code: \f1d5
+- icon-class-name: icon-lux-smiley-blank-fill
+  icon-name: Smiley  Blank
+  icon-code: \f1d6
+- icon-class-name: icon-lux-smiley-meh-fill
+  icon-name: Smiley  Meh
+  icon-code: \f1d7
+- icon-class-name: icon-lux-smiley-nervous-fill
+  icon-name: Smiley  Nervous
+  icon-code: \f1d8
+- icon-class-name: icon-lux-smiley-sad-fill
+  icon-name: Smiley  Sad
+  icon-code: \f1d9
+- icon-class-name: icon-lux-smiley-sticker-fill
+  icon-name: Smiley  Sticker
+  icon-code: \f1da
+- icon-class-name: icon-lux-smiley-wink-fill
+  icon-name: Smiley  Wink
+  icon-code: \f1db
+- icon-class-name: icon-lux-smiley-x-eyes-fill
+  icon-name: Smiley X Eyes
+  icon-code: \f1dc
+- icon-class-name: icon-lux-snapchat-logo-fill
+  icon-name: Snapchat  Logo
+  icon-code: \f1dd
+- icon-class-name: icon-lux-sneaker-fill
+  icon-name: Sneaker
+  icon-code: \f1de
+- icon-class-name: icon-lux-sneaker-move-fill
+  icon-name: Sneaker  Move
+  icon-code: \f1df
+- icon-class-name: icon-lux-snowflake-fill
+  icon-name: Snowflake
+  icon-code: \f1e0
+- icon-class-name: icon-lux-soccer-ball-fill
+  icon-name: Soccer  Ball
+  icon-code: \f1e1
+- icon-class-name: icon-lux-sort-ascending-fill
+  icon-name: Sort  Ascending
+  icon-code: \f1e2
+- icon-class-name: icon-lux-sort-descending-fill
+  icon-name: Sort  Descending
+  icon-code: \f1e3
+- icon-class-name: icon-lux-soundcloud-logo-fill
+  icon-name: Soundcloud  Logo
+  icon-code: \f1e4
+- icon-class-name: icon-lux-spade-fill
+  icon-name: Spade
+  icon-code: \f1e5
+- icon-class-name: icon-lux-sparkle-fill
+  icon-name: Sparkle
+  icon-code: \f1e6
+- icon-class-name: icon-lux-speaker-hifi-fill
+  icon-name: Speaker  Hifi
+  icon-code: \f1e7
+- icon-class-name: icon-lux-speaker-high-fill
+  icon-name: Speaker  High
+  icon-code: \f1e8
+- icon-class-name: icon-lux-speaker-low-fill
+  icon-name: Speaker  Low
+  icon-code: \f1e9
+- icon-class-name: icon-lux-speaker-none-fill
+  icon-name: Speaker  None
+  icon-code: \f1ea
+- icon-class-name: icon-lux-speaker-simple-high-fill
+  icon-name: Speaker  Simple  High
+  icon-code: \f1eb
+- icon-class-name: icon-lux-speaker-simple-low-fill
+  icon-name: Speaker  Simple  Low
+  icon-code: \f1ec
+- icon-class-name: icon-lux-speaker-simple-none-fill
+  icon-name: Speaker  Simple  None
+  icon-code: \f1ed
+- icon-class-name: icon-lux-speaker-simple-slash-fill
+  icon-name: Speaker  Simple  Slash
+  icon-code: \f1ee
+- icon-class-name: icon-lux-speaker-simple-x-fill
+  icon-name: Speaker  Simple X
+  icon-code: \f1ef
+- icon-class-name: icon-lux-speaker-slash-fill
+  icon-name: Speaker  Slash
+  icon-code: \f1f0
+- icon-class-name: icon-lux-speaker-x-fill
+  icon-name: Speaker X
+  icon-code: \f1f1
+- icon-class-name: icon-lux-spinner-fill
+  icon-name: Spinner
+  icon-code: \f1f2
+- icon-class-name: icon-lux-spinner-gap-fill
+  icon-name: Spinner  Gap
+  icon-code: \f1f3
+- icon-class-name: icon-lux-spiral-fill
+  icon-name: Spiral
+  icon-code: \f1f4
+- icon-class-name: icon-lux-split-horizontal-fill
+  icon-name: Split  Horizontal
+  icon-code: \f1f5
+- icon-class-name: icon-lux-split-vertical-fill
+  icon-name: Split  Vertical
+  icon-code: \f1f6
+- icon-class-name: icon-lux-spotify-logo-fill
+  icon-name: Spotify  Logo
+  icon-code: \f1f7
+- icon-class-name: icon-lux-square-fill
+  icon-name: Square
+  icon-code: \f1f8
+- icon-class-name: icon-lux-square-half-fill
+  icon-name: Square  Half
+  icon-code: \f1f9
+- icon-class-name: icon-lux-square-half-bottom-fill
+  icon-name: Square  Half  Bottom
+  icon-code: \f1fa
+- icon-class-name: icon-lux-square-logo-fill
+  icon-name: Square  Logo
+  icon-code: \f1fb
+- icon-class-name: icon-lux-squares-four-fill
+  icon-name: Squares  Four
+  icon-code: \f1fc
+- icon-class-name: icon-lux-square-split-horizontal-fill
+  icon-name: Square  Split  Horizontal
+  icon-code: \f1fd
+- icon-class-name: icon-lux-square-split-vertical-fill
+  icon-name: Square  Split  Vertical
+  icon-code: \f1fe
+- icon-class-name: icon-lux-stack-fill
+  icon-name: Stack
+  icon-code: \f1ff
+- icon-class-name: icon-lux-stack-overflow-logo-fill
+  icon-name: Stack  Overflow  Logo
+  icon-code: \f200
+- icon-class-name: icon-lux-stack-simple-fill
+  icon-name: Stack  Simple
+  icon-code: \f201
+- icon-class-name: icon-lux-stairs-fill
+  icon-name: Stairs
+  icon-code: \f202
+- icon-class-name: icon-lux-stamp-fill
+  icon-name: Stamp
+  icon-code: \f203
+- icon-class-name: icon-lux-star-fill
+  icon-name: Star
+  icon-code: \f204
+- icon-class-name: icon-lux-star-and-crescent-fill
+  icon-name: Star  And  Crescent
+  icon-code: \f205
+- icon-class-name: icon-lux-star-four-fill
+  icon-name: Star  Four
+  icon-code: \f206
+- icon-class-name: icon-lux-star-half-fill
+  icon-name: Star  Half
+  icon-code: \f207
+- icon-class-name: icon-lux-star-of-david-fill
+  icon-name: Star  Of  David
+  icon-code: \f208
+- icon-class-name: icon-lux-steering-wheel-fill
+  icon-name: Steering  Wheel
+  icon-code: \f209
+- icon-class-name: icon-lux-steps-fill
+  icon-name: Steps
+  icon-code: \f20a
+- icon-class-name: icon-lux-stethoscope-fill
+  icon-name: Stethoscope
+  icon-code: \f20b
+- icon-class-name: icon-lux-sticker-fill
+  icon-name: Sticker
+  icon-code: \f20c
+- icon-class-name: icon-lux-stool-fill
+  icon-name: Stool
+  icon-code: \f20d
+- icon-class-name: icon-lux-stop-fill
+  icon-name: Stop
+  icon-code: \f20e
+- icon-class-name: icon-lux-stop-circle-fill
+  icon-name: Stop  Circle
+  icon-code: \f20f
+- icon-class-name: icon-lux-storefront-fill
+  icon-name: Storefront
+  icon-code: \f210
+- icon-class-name: icon-lux-strategy-fill
+  icon-name: Strategy
+  icon-code: \f211
+- icon-class-name: icon-lux-stripe-logo-fill
+  icon-name: Stripe  Logo
+  icon-code: \f212
+- icon-class-name: icon-lux-student-fill
+  icon-name: Student
+  icon-code: \f213
+- icon-class-name: icon-lux-subtitles-fill
+  icon-name: Subtitles
+  icon-code: \f214
+- icon-class-name: icon-lux-subtract-fill
+  icon-name: Subtract
+  icon-code: \f215
+- icon-class-name: icon-lux-subtract-square-fill
+  icon-name: Subtract  Square
+  icon-code: \f216
+- icon-class-name: icon-lux-suitcase-fill
+  icon-name: Suitcase
+  icon-code: \f217
+- icon-class-name: icon-lux-suitcase-rolling-fill
+  icon-name: Suitcase  Rolling
+  icon-code: \f218
+- icon-class-name: icon-lux-suitcase-simple-fill
+  icon-name: Suitcase  Simple
+  icon-code: \f219
+- icon-class-name: icon-lux-sun-fill
+  icon-name: Sun
+  icon-code: \f21a
+- icon-class-name: icon-lux-sun-dim-fill
+  icon-name: Sun  Dim
+  icon-code: \f21b
+- icon-class-name: icon-lux-sunglasses-fill
+  icon-name: Sunglasses
+  icon-code: \f21c
+- icon-class-name: icon-lux-sun-horizon-fill
+  icon-name: Sun  Horizon
+  icon-code: \f21d
+- icon-class-name: icon-lux-swap-fill
+  icon-name: Swap
+  icon-code: \f21e
+- icon-class-name: icon-lux-swatches-fill
+  icon-name: Swatches
+  icon-code: \f21f
+- icon-class-name: icon-lux-swimming-pool-fill
+  icon-name: Swimming  Pool
+  icon-code: \f220
+- icon-class-name: icon-lux-sword-fill
+  icon-name: Sword
+  icon-code: \f221
+- icon-class-name: icon-lux-synagogue-fill
+  icon-name: Synagogue
+  icon-code: \f222
+- icon-class-name: icon-lux-syringe-fill
+  icon-name: Syringe
+  icon-code: \f223
+- icon-class-name: icon-lux-table-fill
+  icon-name: Table
+  icon-code: \f224
+- icon-class-name: icon-lux-tabs-fill
+  icon-name: Tabs
+  icon-code: \f225
+- icon-class-name: icon-lux-tag-fill
+  icon-name: Tag
+  icon-code: \f226
+- icon-class-name: icon-lux-tag-chevron-fill
+  icon-name: Tag  Chevron
+  icon-code: \f227
+- icon-class-name: icon-lux-tag-simple-fill
+  icon-name: Tag  Simple
+  icon-code: \f228
+- icon-class-name: icon-lux-target-fill
+  icon-name: Target
+  icon-code: \f229
+- icon-class-name: icon-lux-taxi-fill
+  icon-name: Taxi
+  icon-code: \f22a
+- icon-class-name: icon-lux-telegram-logo-fill
+  icon-name: Telegram  Logo
+  icon-code: \f22b
+- icon-class-name: icon-lux-television-fill
+  icon-name: Television
+  icon-code: \f22c
+- icon-class-name: icon-lux-television-simple-fill
+  icon-name: Television  Simple
+  icon-code: \f22d
+- icon-class-name: icon-lux-tennis-ball-fill
+  icon-name: Tennis  Ball
+  icon-code: \f22e
+- icon-class-name: icon-lux-tent-fill
+  icon-name: Tent
+  icon-code: \f22f
+- icon-class-name: icon-lux-terminal-fill
+  icon-name: Terminal
+  icon-code: \f230
+- icon-class-name: icon-lux-terminal-window-fill
+  icon-name: Terminal  Window
+  icon-code: \f231
+- icon-class-name: icon-lux-test-tube-fill
+  icon-name: Test  Tube
+  icon-code: \f232
+- icon-class-name: icon-lux-text-aa-fill
+  icon-name: Text  Aa
+  icon-code: \f233
+- icon-class-name: icon-lux-text-align-center-fill
+  icon-name: Text  Align  Center
+  icon-code: \f234
+- icon-class-name: icon-lux-text-align-justify-fill
+  icon-name: Text  Align  Justify
+  icon-code: \f235
+- icon-class-name: icon-lux-text-align-left-fill
+  icon-name: Text  Align  Left
+  icon-code: \f236
+- icon-class-name: icon-lux-text-align-right-fill
+  icon-name: Text  Align  Right
+  icon-code: \f237
+- icon-class-name: icon-lux-text-a-underline-fill
+  icon-name: Text A Underline
+  icon-code: \f238
+- icon-class-name: icon-lux-text-b-fill
+  icon-name: Text B
+  icon-code: \f239
+- icon-class-name: icon-lux-textbox-fill
+  icon-name: Textbox
+  icon-code: \f23a
+- icon-class-name: icon-lux-text-columns-fill
+  icon-name: Text  Columns
+  icon-code: \f23b
+- icon-class-name: icon-lux-text-h-fill
+  icon-name: Text H
+  icon-code: \f23c
+- icon-class-name: icon-lux-text-h-five-fill
+  icon-name: Text H Five
+  icon-code: \f23d
+- icon-class-name: icon-lux-text-h-four-fill
+  icon-name: Text H Four
+  icon-code: \f23e
+- icon-class-name: icon-lux-text-h-one-fill
+  icon-name: Text H One
+  icon-code: \f23f
+- icon-class-name: icon-lux-text-h-six-fill
+  icon-name: Text H Six
+  icon-code: \f240
+- icon-class-name: icon-lux-text-h-three-fill
+  icon-name: Text H Three
+  icon-code: \f241
+- icon-class-name: icon-lux-text-h-two-fill
+  icon-name: Text H Two
+  icon-code: \f242
+- icon-class-name: icon-lux-text-indent-fill
+  icon-name: Text  Indent
+  icon-code: \f243
+- icon-class-name: icon-lux-text-italic-fill
+  icon-name: Text  Italic
+  icon-code: \f244
+- icon-class-name: icon-lux-text-outdent-fill
+  icon-name: Text  Outdent
+  icon-code: \f245
+- icon-class-name: icon-lux-text-strikethrough-fill
+  icon-name: Text  Strikethrough
+  icon-code: \f246
+- icon-class-name: icon-lux-text-t-fill
+  icon-name: Text T
+  icon-code: \f247
+- icon-class-name: icon-lux-text-underline-fill
+  icon-name: Text  Underline
+  icon-code: \f248
+- icon-class-name: icon-lux-thermometer-fill
+  icon-name: Thermometer
+  icon-code: \f249
+- icon-class-name: icon-lux-thermometer-cold-fill
+  icon-name: Thermometer  Cold
+  icon-code: \f24a
+- icon-class-name: icon-lux-thermometer-hot-fill
+  icon-name: Thermometer  Hot
+  icon-code: \f24b
+- icon-class-name: icon-lux-thermometer-simple-fill
+  icon-name: Thermometer  Simple
+  icon-code: \f24c
+- icon-class-name: icon-lux-thumbs-down-fill
+  icon-name: Thumbs  Down
+  icon-code: \f24d
+- icon-class-name: icon-lux-thumbs-up-fill
+  icon-name: Thumbs  Up
+  icon-code: \f24e
+- icon-class-name: icon-lux-ticket-fill
+  icon-name: Ticket
+  icon-code: \f24f
+- icon-class-name: icon-lux-tidal-logo-fill
+  icon-name: Tidal  Logo
+  icon-code: \f250
+- icon-class-name: icon-lux-tiktok-logo-fill
+  icon-name: Tiktok  Logo
+  icon-code: \f251
+- icon-class-name: icon-lux-timer-fill
+  icon-name: Timer
+  icon-code: \f252
+- icon-class-name: icon-lux-tipi-fill
+  icon-name: Tipi
+  icon-code: \f253
+- icon-class-name: icon-lux-toggle-left-fill
+  icon-name: Toggle  Left
+  icon-code: \f254
+- icon-class-name: icon-lux-toggle-right-fill
+  icon-name: Toggle  Right
+  icon-code: \f255
+- icon-class-name: icon-lux-toilet-fill
+  icon-name: Toilet
+  icon-code: \f256
+- icon-class-name: icon-lux-toilet-paper-fill
+  icon-name: Toilet  Paper
+  icon-code: \f257
+- icon-class-name: icon-lux-toolbox-fill
+  icon-name: Toolbox
+  icon-code: \f258
+- icon-class-name: icon-lux-tooth-fill
+  icon-name: Tooth
+  icon-code: \f259
+- icon-class-name: icon-lux-tote-fill
+  icon-name: Tote
+  icon-code: \f25a
+- icon-class-name: icon-lux-tote-simple-fill
+  icon-name: Tote  Simple
+  icon-code: \f25b
+- icon-class-name: icon-lux-trademark-fill
+  icon-name: Trademark
+  icon-code: \f25c
+- icon-class-name: icon-lux-trademark-registered-fill
+  icon-name: Trademark  Registered
+  icon-code: \f25d
+- icon-class-name: icon-lux-traffic-cone-fill
+  icon-name: Traffic  Cone
+  icon-code: \f25e
+- icon-class-name: icon-lux-traffic-sign-fill
+  icon-name: Traffic  Sign
+  icon-code: \f25f
+- icon-class-name: icon-lux-traffic-signal-fill
+  icon-name: Traffic  Signal
+  icon-code: \f260
+- icon-class-name: icon-lux-train-fill
+  icon-name: Train
+  icon-code: \f261
+- icon-class-name: icon-lux-train-regional-fill
+  icon-name: Train  Regional
+  icon-code: \f262
+- icon-class-name: icon-lux-train-simple-fill
+  icon-name: Train  Simple
+  icon-code: \f263
+- icon-class-name: icon-lux-tram-fill
+  icon-name: Tram
+  icon-code: \f264
+- icon-class-name: icon-lux-translate-fill
+  icon-name: Translate
+  icon-code: \f265
+- icon-class-name: icon-lux-trash-fill
+  icon-name: Trash
+  icon-code: \f266
+- icon-class-name: icon-lux-trash-simple-fill
+  icon-name: Trash  Simple
+  icon-code: \f267
+- icon-class-name: icon-lux-tray-fill
+  icon-name: Tray
+  icon-code: \f268
+- icon-class-name: icon-lux-tree-fill
+  icon-name: Tree
+  icon-code: \f269
+- icon-class-name: icon-lux-tree-evergreen-fill
+  icon-name: Tree  Evergreen
+  icon-code: \f26a
+- icon-class-name: icon-lux-tree-palm-fill
+  icon-name: Tree  Palm
+  icon-code: \f26b
+- icon-class-name: icon-lux-tree-structure-fill
+  icon-name: Tree  Structure
+  icon-code: \f26c
+- icon-class-name: icon-lux-trend-down-fill
+  icon-name: Trend  Down
+  icon-code: \f26d
+- icon-class-name: icon-lux-trend-up-fill
+  icon-name: Trend  Up
+  icon-code: \f26e
+- icon-class-name: icon-lux-triangle-fill
+  icon-name: Triangle
+  icon-code: \f26f
+- icon-class-name: icon-lux-trophy-fill
+  icon-name: Trophy
+  icon-code: \f270
+- icon-class-name: icon-lux-truck-fill
+  icon-name: Truck
+  icon-code: \f271
+- icon-class-name: icon-lux-t-shirt-fill
+  icon-name: T Shirt
+  icon-code: \f272
+- icon-class-name: icon-lux-twitch-logo-fill
+  icon-name: Twitch  Logo
+  icon-code: \f273
+- icon-class-name: icon-lux-twitter-logo-fill
+  icon-name: Twitter  Logo
+  icon-code: \f274
+- icon-class-name: icon-lux-umbrella-fill
+  icon-name: Umbrella
+  icon-code: \f275
+- icon-class-name: icon-lux-umbrella-simple-fill
+  icon-name: Umbrella  Simple
+  icon-code: \f276
+- icon-class-name: icon-lux-unite-fill
+  icon-name: Unite
+  icon-code: \f277
+- icon-class-name: icon-lux-unite-square-fill
+  icon-name: Unite  Square
+  icon-code: \f278
+- icon-class-name: icon-lux-upload-fill
+  icon-name: Upload
+  icon-code: \f279
+- icon-class-name: icon-lux-upload-simple-fill
+  icon-name: Upload  Simple
+  icon-code: \f27a
+- icon-class-name: icon-lux-usb-fill
+  icon-name: Usb
+  icon-code: \f27b
+- icon-class-name: icon-lux-user-fill
+  icon-name: User
+  icon-code: \f27c
+- icon-class-name: icon-lux-user-circle-fill
+  icon-name: User  Circle
+  icon-code: \f27d
+- icon-class-name: icon-lux-user-circle-gear-fill
+  icon-name: User  Circle  Gear
+  icon-code: \f27e
+- icon-class-name: icon-lux-user-circle-minus-fill
+  icon-name: User  Circle  Minus
+  icon-code: \f27f
+- icon-class-name: icon-lux-user-circle-plus-fill
+  icon-name: User  Circle  Plus
+  icon-code: \f280
+- icon-class-name: icon-lux-user-focus-fill
+  icon-name: User  Focus
+  icon-code: \f281
+- icon-class-name: icon-lux-user-gear-fill
+  icon-name: User  Gear
+  icon-code: \f282
+- icon-class-name: icon-lux-user-list-fill
+  icon-name: User  List
+  icon-code: \f283
+- icon-class-name: icon-lux-user-minus-fill
+  icon-name: User  Minus
+  icon-code: \f284
+- icon-class-name: icon-lux-user-plus-fill
+  icon-name: User  Plus
+  icon-code: \f285
+- icon-class-name: icon-lux-user-rectangle-fill
+  icon-name: User  Rectangle
+  icon-code: \f286
+- icon-class-name: icon-lux-users-fill
+  icon-name: Users
+  icon-code: \f287
+- icon-class-name: icon-lux-users-four-fill
+  icon-name: Users  Four
+  icon-code: \f288
+- icon-class-name: icon-lux-user-square-fill
+  icon-name: User  Square
+  icon-code: \f289
+- icon-class-name: icon-lux-users-three-fill
+  icon-name: Users  Three
+  icon-code: \f28a
+- icon-class-name: icon-lux-user-switch-fill
+  icon-name: User  Switch
+  icon-code: \f28b
+- icon-class-name: icon-lux-van-fill
+  icon-name: Van
+  icon-code: \f28c
+- icon-class-name: icon-lux-vault-fill
+  icon-name: Vault
+  icon-code: \f28d
+- icon-class-name: icon-lux-vibrate-fill
+  icon-name: Vibrate
+  icon-code: \f28e
+- icon-class-name: icon-lux-video-fill
+  icon-name: Video
+  icon-code: \f28f
+- icon-class-name: icon-lux-video-camera-fill
+  icon-name: Video  Camera
+  icon-code: \f290
+- icon-class-name: icon-lux-video-camera-slash-fill
+  icon-name: Video  Camera  Slash
+  icon-code: \f291
+- icon-class-name: icon-lux-vignette-fill
+  icon-name: Vignette
+  icon-code: \f292
+- icon-class-name: icon-lux-vinyl-record-fill
+  icon-name: Vinyl  Record
+  icon-code: \f293
+- icon-class-name: icon-lux-virtual-reality-fill
+  icon-name: Virtual  Reality
+  icon-code: \f294
+- icon-class-name: icon-lux-virus-fill
+  icon-name: Virus
+  icon-code: \f295
+- icon-class-name: icon-lux-voicemail-fill
+  icon-name: Voicemail
+  icon-code: \f296
+- icon-class-name: icon-lux-volleyball-fill
+  icon-name: Volleyball
+  icon-code: \f297
+- icon-class-name: icon-lux-wall-fill
+  icon-name: Wall
+  icon-code: \f298
+- icon-class-name: icon-lux-wallet-fill
+  icon-name: Wallet
+  icon-code: \f299
+- icon-class-name: icon-lux-warehouse-fill
+  icon-name: Warehouse
+  icon-code: \f29a
+- icon-class-name: icon-lux-warning-fill
+  icon-name: Warning
+  icon-code: \f29b
+- icon-class-name: icon-lux-warning-circle-fill
+  icon-name: Warning  Circle
+  icon-code: \f29c
+- icon-class-name: icon-lux-warning-diamond-fill
+  icon-name: Warning  Diamond
+  icon-code: \f29d
+- icon-class-name: icon-lux-warning-octagon-fill
+  icon-name: Warning  Octagon
+  icon-code: \f29e
+- icon-class-name: icon-lux-watch-fill
+  icon-name: Watch
+  icon-code: \f29f
+- icon-class-name: icon-lux-waveform-fill
+  icon-name: Waveform
+  icon-code: \f2a0
+- icon-class-name: icon-lux-waves-fill
+  icon-name: Waves
+  icon-code: \f2a1
+- icon-class-name: icon-lux-wave-sawtooth-fill
+  icon-name: Wave  Sawtooth
+  icon-code: \f2a2
+- icon-class-name: icon-lux-wave-sine-fill
+  icon-name: Wave  Sine
+  icon-code: \f2a3
+- icon-class-name: icon-lux-wave-square-fill
+  icon-name: Wave  Square
+  icon-code: \f2a4
+- icon-class-name: icon-lux-wave-triangle-fill
+  icon-name: Wave  Triangle
+  icon-code: \f2a5
+- icon-class-name: icon-lux-webcam-fill
+  icon-name: Webcam
+  icon-code: \f2a6
+- icon-class-name: icon-lux-webcam-slash-fill
+  icon-name: Webcam  Slash
+  icon-code: \f2a7
+- icon-class-name: icon-lux-webhooks-logo-fill
+  icon-name: Webhooks  Logo
+  icon-code: \f2a8
+- icon-class-name: icon-lux-wechat-logo-fill
+  icon-name: Wechat  Logo
+  icon-code: \f2a9
+- icon-class-name: icon-lux-whatsapp-logo-fill
+  icon-name: Whatsapp  Logo
+  icon-code: \f2aa
+- icon-class-name: icon-lux-wheelchair-fill
+  icon-name: Wheelchair
+  icon-code: \f2ab
+- icon-class-name: icon-lux-wheelchair-motion-fill
+  icon-name: Wheelchair  Motion
+  icon-code: \f2ac
+- icon-class-name: icon-lux-wifi-high-fill
+  icon-name: Wifi  High
+  icon-code: \f2ad
+- icon-class-name: icon-lux-wifi-low-fill
+  icon-name: Wifi  Low
+  icon-code: \f2ae
+- icon-class-name: icon-lux-wifi-medium-fill
+  icon-name: Wifi  Medium
+  icon-code: \f2af
+- icon-class-name: icon-lux-wifi-none-fill
+  icon-name: Wifi  None
+  icon-code: \f2b0
+- icon-class-name: icon-lux-wifi-slash-fill
+  icon-name: Wifi  Slash
+  icon-code: \f2b1
+- icon-class-name: icon-lux-wifi-x-fill
+  icon-name: Wifi X
+  icon-code: \f2b2
+- icon-class-name: icon-lux-wind-fill
+  icon-name: Wind
+  icon-code: \f2b3
+- icon-class-name: icon-lux-windows-logo-fill
+  icon-name: Windows  Logo
+  icon-code: \f2b4
+- icon-class-name: icon-lux-wine-fill
+  icon-name: Wine
+  icon-code: \f2b5
+- icon-class-name: icon-lux-wrench-fill
+  icon-name: Wrench
+  icon-code: \f2b6
+- icon-class-name: icon-lux-x-fill
+  icon-name: X
+  icon-code: \f2b7
+- icon-class-name: icon-lux-x-circle-fill
+  icon-name: X Circle
+  icon-code: \f2b8
+- icon-class-name: icon-lux-x-square-fill
+  icon-name: X Square
+  icon-code: \f2b9
+- icon-class-name: icon-lux-yin-yang-fill
+  icon-name: Yin  Yang
+  icon-code: \f2ba
+- icon-class-name: icon-lux-youtube-logo-fill
+  icon-name: Youtube  Logo
+  icon-code: \f2bb
