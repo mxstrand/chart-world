@@ -1,3 +1,8 @@
+# config/routes.yaml
 controllers:
     resource: ../src/Controller/
     type: attribute
+
+nav_routes:
+    resource: .
+    type: nav

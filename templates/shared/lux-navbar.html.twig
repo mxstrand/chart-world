@@ -10,11 +10,11 @@
     <ul class="c-nav c-nav--end">
     <ul class="c-nav c-nav--end">
       {% for navItem in navItems %}
-        <li class="c-nav__item"><a href="#" class="c-nav__link">{{ navItem }}</a></li>
+        <li class="c-nav__item"><a href="{{ navItem.route }}" class="c-nav__link">{{ navItem.name }}</a></li>
       {% endfor %}
       <li class="c-nav__item c-nav__item--dropdown">
         <a href="javascript:void(0)" class="c-nav__link c-nav__dropdown-toggle">
-          Menu
+          Drop down menu
           <i class="c-nav__dropdown-icon icon-lux-caret-down"></i>
         </a>
         <div class="c-nav__dropdown-menu c-menu">
