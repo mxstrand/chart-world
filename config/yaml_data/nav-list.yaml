@@ -7,8 +7,8 @@ navItems:
     route: nav-2
   - name: Nav three
     route: nav-3
-  - name: Foo
-    route: foo
-    controller: App\Controller\FooController::foo
+  - name: Lux icons
+    route: lux-icons
+    controller: App\Controller\IconsController::show
   - name: Bar
     route: bar
