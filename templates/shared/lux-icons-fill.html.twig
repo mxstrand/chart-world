@@ -1,3 +1,5 @@
+
+<div class="o-grid u-pt-10 icon-grid-regular"></div>
 {% for icon in icons %}
 <div class="o-grid__col o-grid__col--2 icon-wrapper" data-is-primary="{{ icon['is-primary']|default(false) }}">
     <div class="icon">
@@ -11,6 +13,7 @@
     </code>
 </div>
 {% endfor %}
+</div>
 
 {% block javascripts %}
 <script>
