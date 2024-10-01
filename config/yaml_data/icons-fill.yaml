@@ -765,12 +765,14 @@
 - icon-class-name: icon-lux-caret-down-fill
   icon-name: Caret  Down
   icon-code: \eeda
+  is-primary: true
 - icon-class-name: icon-lux-caret-left-fill
   icon-name: Caret  Left
   icon-code: \eedb
 - icon-class-name: icon-lux-caret-right-fill
   icon-name: Caret  Right
   icon-code: \eedc
+  is-primary: true
 - icon-class-name: icon-lux-caret-up-fill
   icon-name: Caret  Up
   icon-code: \eedd
@@ -1311,6 +1313,7 @@
 - icon-class-name: icon-lux-dots-three-vertical-fill
   icon-name: Dots  Three  Vertical
   icon-code: \ef90
+  is-primary: true
 - icon-class-name: icon-lux-download-fill
   icon-name: Download
   icon-code: \ef91
@@ -2040,6 +2043,7 @@
 - icon-class-name: icon-lux-info-fill
   icon-name: Info
   icon-code: \f083
+  is-primary: true
 - icon-class-name: icon-lux-instagram-logo-fill
   icon-name: Instagram  Logo
   icon-code: \f084
@@ -2136,6 +2140,7 @@
 - icon-class-name: icon-lux-link-simple-horizontal-fill
   icon-name: Link  Simple  Horizontal
   icon-code: \f0a3
+  is-primary: true
 - icon-class-name: icon-lux-link-simple-horizontal-break-fill
   icon-name: Link  Simple  Horizontal  Break
   icon-code: \f0a4
