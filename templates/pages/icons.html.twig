@@ -1,0 +1,15 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Foo page{% endblock title %}
+
+{% block body %}
+<body>
+    <div>
+        <label for="primary-toggle">Show only primary icons</label>
+        <input type="checkbox" id="primary-toggle">
+    </div>
+    <div id="icons-container">
+        {% include 'shared/lux-icons-fill.html.twig' %}
+    </div>
+</body>
+{% endblock body %}

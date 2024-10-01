@@ -15,7 +15,7 @@ class YamlService
 
     public function readYamlFile(string $filePath): array
     {
-        $fullPath = $this->projectDir . '/config/mock_data/' . $filePath;
+        $fullPath = $this->projectDir . '/config/yaml_data/' . $filePath;
         if (!file_exists($fullPath)) {
             throw new \InvalidArgumentException(sprintf('The file "%s" does not exist.', $fullPath));
         }

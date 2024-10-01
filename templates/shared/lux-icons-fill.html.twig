@@ -1,0 +1,39 @@
+
+<div class="o-grid u-pt-10 icon-grid-regular">
+{% for icon in icons %}
+<div class="o-grid__col o-grid__col--2 icon-wrapper" data-is-primary="{{ icon['is-primary']|default(false) }}">
+    <div class="icon" style="font-size: 100px;">
+        <i class="{{ icon['icon-class-name'] }}"></i>
+    </div>
+    <p class="icon-name">{{ icon['icon-name'] }}</p>
+    <p class="icon-code">Content Code: <span>{{ icon['icon-code'] }}</span></p>
+    <code data-lang="html">
+        <span>&lt;</span><span>i</span>
+        <span>class="{{ icon['icon-class-name'] }}"&gt;&lt;</span><span>/i&gt;</span>
+    </code>
+</div>
+{% endfor %}
+</div>
+
+{% block javascripts %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const toggle = document.getElementById('primary-toggle');
+    const iconsContainer = document.getElementById('icons-container');
+
+    toggle.addEventListener('change', function() {
+        const showPrimary = toggle.checked;
+        const icons = iconsContainer.querySelectorAll('.icon-wrapper');
+
+        icons.forEach(icon => {
+            const isPrimary = icon.getAttribute('data-is-primary') === '1';
+            if (showPrimary && !isPrimary) {
+                icon.style.display = 'none';
+            } else {
+                icon.style.display = 'block';
+            }
+        });
+    });
+});
+</script>
+{% endblock %}

@@ -26,13 +26,13 @@ class NavRouteLoader implements LoaderInterface
         $routes = new RouteCollection();
 
         // Load the YAML file
-        $navItems = Yaml::parseFile(__DIR__ . '/../../config/mock_data/nav-list.yaml')['navItems'];
+        $navItems = Yaml::parseFile(__DIR__ . '/../../config/yaml_data/nav-list.yaml')['navItems'];
 
         foreach ($navItems as $navItem) {
             // Set default route to '/' if not provided
             $path = '/' . ($navItem['route'] ?? '');
 
-            $controller = $navItem['controller'] ?? 'App\Controller\ShowController::show';
+            $controller = $navItem['controller'] ?? 'App\Controller\PageController::renderWithNavItems';
             $defaults = [
                 '_controller' => $controller,
                 'navItem' => $navItem['name'],
